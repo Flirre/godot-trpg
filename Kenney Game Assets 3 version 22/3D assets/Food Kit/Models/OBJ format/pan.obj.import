@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pan.obj-f06c75cf9e4ab853d6435888b821c6fe.mesh"
+
+[deps]
+
+files=[ "res://.import/pan.obj-f06c75cf9e4ab853d6435888b821c6fe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/pan.obj"
+dest_files=[ "res://.import/pan.obj-f06c75cf9e4ab853d6435888b821c6fe.mesh", "res://.import/pan.obj-f06c75cf9e4ab853d6435888b821c6fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

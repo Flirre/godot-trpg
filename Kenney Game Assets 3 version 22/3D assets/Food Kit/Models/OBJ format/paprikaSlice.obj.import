@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/paprikaSlice.obj-29a07779b30eef1f87203650d1a3920b.mesh"
+
+[deps]
+
+files=[ "res://.import/paprikaSlice.obj-29a07779b30eef1f87203650d1a3920b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/paprikaSlice.obj"
+dest_files=[ "res://.import/paprikaSlice.obj-29a07779b30eef1f87203650d1a3920b.mesh", "res://.import/paprikaSlice.obj-29a07779b30eef1f87203650d1a3920b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

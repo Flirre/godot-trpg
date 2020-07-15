@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/metalTileSmall.obj-05acd46604197cd0e68588cde69a0619.mesh"
+
+[deps]
+
+files=[ "res://.import/metalTileSmall.obj-05acd46604197cd0e68588cde69a0619.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/metalTileSmall.obj"
+dest_files=[ "res://.import/metalTileSmall.obj-05acd46604197cd0e68588cde69a0619.mesh", "res://.import/metalTileSmall.obj-05acd46604197cd0e68588cde69a0619.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

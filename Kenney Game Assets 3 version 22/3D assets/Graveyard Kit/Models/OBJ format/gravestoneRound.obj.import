@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gravestoneRound.obj-21f82db95ccd3a55c6f3d5e30d9e529a.mesh"
+
+[deps]
+
+files=[ "res://.import/gravestoneRound.obj-21f82db95ccd3a55c6f3d5e30d9e529a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/gravestoneRound.obj"
+dest_files=[ "res://.import/gravestoneRound.obj-21f82db95ccd3a55c6f3d5e30d9e529a.mesh", "res://.import/gravestoneRound.obj-21f82db95ccd3a55c6f3d5e30d9e529a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

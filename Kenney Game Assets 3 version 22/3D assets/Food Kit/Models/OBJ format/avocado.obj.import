@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/avocado.obj-013d106ba69f1c47685d740c38f9f795.mesh"
+
+[deps]
+
+files=[ "res://.import/avocado.obj-013d106ba69f1c47685d740c38f9f795.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/avocado.obj"
+dest_files=[ "res://.import/avocado.obj-013d106ba69f1c47685d740c38f9f795.mesh", "res://.import/avocado.obj-013d106ba69f1c47685d740c38f9f795.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

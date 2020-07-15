@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenCabinetUpperDouble.obj-7451e761c6fcaa9247d6fee5295e938b.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenCabinetUpperDouble.obj-7451e761c6fcaa9247d6fee5295e938b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/kitchenCabinetUpperDouble.obj"
+dest_files=[ "res://.import/kitchenCabinetUpperDouble.obj-7451e761c6fcaa9247d6fee5295e938b.mesh", "res://.import/kitchenCabinetUpperDouble.obj-7451e761c6fcaa9247d6fee5295e938b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

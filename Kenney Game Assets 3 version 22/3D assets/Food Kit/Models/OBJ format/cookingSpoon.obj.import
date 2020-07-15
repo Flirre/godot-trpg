@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingSpoon.obj-7bba4ff526f8bc7111f76635ae3c1b9b.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingSpoon.obj-7bba4ff526f8bc7111f76635ae3c1b9b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/cookingSpoon.obj"
+dest_files=[ "res://.import/cookingSpoon.obj-7bba4ff526f8bc7111f76635ae3c1b9b.mesh", "res://.import/cookingSpoon.obj-7bba4ff526f8bc7111f76635ae3c1b9b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

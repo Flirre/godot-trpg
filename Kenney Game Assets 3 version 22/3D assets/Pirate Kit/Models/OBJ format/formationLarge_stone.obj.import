@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/formationLarge_stone.obj-44e163d0e46411eaad8bb8920cc83b13.mesh"
+
+[deps]
+
+files=[ "res://.import/formationLarge_stone.obj-44e163d0e46411eaad8bb8920cc83b13.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/formationLarge_stone.obj"
+dest_files=[ "res://.import/formationLarge_stone.obj-44e163d0e46411eaad8bb8920cc83b13.mesh", "res://.import/formationLarge_stone.obj-44e163d0e46411eaad8bb8920cc83b13.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

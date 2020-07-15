@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bowlSoup.obj-1a1af6eb871ce1837de5be0a61c9e1ea.mesh"
+
+[deps]
+
+files=[ "res://.import/bowlSoup.obj-1a1af6eb871ce1837de5be0a61c9e1ea.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/bowlSoup.obj"
+dest_files=[ "res://.import/bowlSoup.obj-1a1af6eb871ce1837de5be0a61c9e1ea.mesh", "res://.import/bowlSoup.obj-1a1af6eb871ce1837de5be0a61c9e1ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

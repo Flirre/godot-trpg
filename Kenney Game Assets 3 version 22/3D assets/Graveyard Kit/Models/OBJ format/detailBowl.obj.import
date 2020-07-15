@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/detailBowl.obj-0b409f609ee005d34451ae191493a1ce.mesh"
+
+[deps]
+
+files=[ "res://.import/detailBowl.obj-0b409f609ee005d34451ae191493a1ce.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/detailBowl.obj"
+dest_files=[ "res://.import/detailBowl.obj-0b409f609ee005d34451ae191493a1ce.mesh", "res://.import/detailBowl.obj-0b409f609ee005d34451ae191493a1ce.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

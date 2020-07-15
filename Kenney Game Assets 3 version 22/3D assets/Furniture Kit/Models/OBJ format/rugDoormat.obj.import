@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rugDoormat.obj-3c675c63c31c1dac8b69da7fc24607a3.mesh"
+
+[deps]
+
+files=[ "res://.import/rugDoormat.obj-3c675c63c31c1dac8b69da7fc24607a3.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/rugDoormat.obj"
+dest_files=[ "res://.import/rugDoormat.obj-3c675c63c31c1dac8b69da7fc24607a3.mesh", "res://.import/rugDoormat.obj-3c675c63c31c1dac8b69da7fc24607a3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

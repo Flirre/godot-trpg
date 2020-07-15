@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/raceCarWhite.obj-08cce89a5e16c0df84a0723e491f707e.mesh"
+
+[deps]
+
+files=[ "res://.import/raceCarWhite.obj-08cce89a5e16c0df84a0723e491f707e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/raceCarWhite.obj"
+dest_files=[ "res://.import/raceCarWhite.obj-08cce89a5e16c0df84a0723e491f707e.mesh", "res://.import/raceCarWhite.obj-08cce89a5e16c0df84a0723e491f707e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

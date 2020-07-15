@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pirate_captain.obj-d141c555c7cdee09247d575dc761094e.mesh"
+
+[deps]
+
+files=[ "res://.import/pirate_captain.obj-d141c555c7cdee09247d575dc761094e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/pirate_captain.obj"
+dest_files=[ "res://.import/pirate_captain.obj-d141c555c7cdee09247d575dc761094e.mesh", "res://.import/pirate_captain.obj-d141c555c7cdee09247d575dc761094e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

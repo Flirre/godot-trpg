@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/frameHighTile.obj-38985bf233dc8f4e683402fa49d93a24.mesh"
+
+[deps]
+
+files=[ "res://.import/frameHighTile.obj-38985bf233dc8f4e683402fa49d93a24.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/frameHighTile.obj"
+dest_files=[ "res://.import/frameHighTile.obj-38985bf233dc8f4e683402fa49d93a24.mesh", "res://.import/frameHighTile.obj-38985bf233dc8f4e683402fa49d93a24.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

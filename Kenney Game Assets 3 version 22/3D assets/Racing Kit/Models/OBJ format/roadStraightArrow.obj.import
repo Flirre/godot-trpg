@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadStraightArrow.obj-7a17278d3b96f0ea8ab880d315ffe81f.mesh"
+
+[deps]
+
+files=[ "res://.import/roadStraightArrow.obj-7a17278d3b96f0ea8ab880d315ffe81f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadStraightArrow.obj"
+dest_files=[ "res://.import/roadStraightArrow.obj-7a17278d3b96f0ea8ab880d315ffe81f.mesh", "res://.import/roadStraightArrow.obj-7a17278d3b96f0ea8ab880d315ffe81f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

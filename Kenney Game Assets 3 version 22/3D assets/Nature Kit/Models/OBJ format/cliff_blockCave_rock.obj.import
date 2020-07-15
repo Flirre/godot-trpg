@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliff_blockCave_rock.obj-00968e28303f3c46650b8a594e249bfb.mesh"
+
+[deps]
+
+files=[ "res://.import/cliff_blockCave_rock.obj-00968e28303f3c46650b8a594e249bfb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/cliff_blockCave_rock.obj"
+dest_files=[ "res://.import/cliff_blockCave_rock.obj-00968e28303f3c46650b8a594e249bfb.mesh", "res://.import/cliff_blockCave_rock.obj-00968e28303f3c46650b8a594e249bfb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

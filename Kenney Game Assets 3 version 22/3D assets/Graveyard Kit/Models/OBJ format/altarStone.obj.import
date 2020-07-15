@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/altarStone.obj-f4600029523fda5d9039edc68a4eec19.mesh"
+
+[deps]
+
+files=[ "res://.import/altarStone.obj-f4600029523fda5d9039edc68a4eec19.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/altarStone.obj"
+dest_files=[ "res://.import/altarStone.obj-f4600029523fda5d9039edc68a4eec19.mesh", "res://.import/altarStone.obj-f4600029523fda5d9039edc68a4eec19.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

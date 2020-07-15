@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crops_wheatStageA.obj-4e89c6f54e6574d9a20220d1a83e5284.mesh"
+
+[deps]
+
+files=[ "res://.import/crops_wheatStageA.obj-4e89c6f54e6574d9a20220d1a83e5284.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/crops_wheatStageA.obj"
+dest_files=[ "res://.import/crops_wheatStageA.obj-4e89c6f54e6574d9a20220d1a83e5284.mesh", "res://.import/crops_wheatStageA.obj-4e89c6f54e6574d9a20220d1a83e5284.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

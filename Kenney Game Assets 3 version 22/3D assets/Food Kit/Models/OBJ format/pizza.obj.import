@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pizza.obj-0517237b04c0f9d674f0e9205c119e9e.mesh"
+
+[deps]
+
+files=[ "res://.import/pizza.obj-0517237b04c0f9d674f0e9205c119e9e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/pizza.obj"
+dest_files=[ "res://.import/pizza.obj-0517237b04c0f9d674f0e9205c119e9e.mesh", "res://.import/pizza.obj-0517237b04c0f9d674f0e9205c119e9e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

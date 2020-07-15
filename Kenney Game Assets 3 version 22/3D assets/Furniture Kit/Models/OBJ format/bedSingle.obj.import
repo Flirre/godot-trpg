@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bedSingle.obj-f72f23c3a6c512e8c6b5122d56a0391e.mesh"
+
+[deps]
+
+files=[ "res://.import/bedSingle.obj-f72f23c3a6c512e8c6b5122d56a0391e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/bedSingle.obj"
+dest_files=[ "res://.import/bedSingle.obj-f72f23c3a6c512e8c6b5122d56a0391e.mesh", "res://.import/bedSingle.obj-f72f23c3a6c512e8c6b5122d56a0391e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

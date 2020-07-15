@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pumpkin.obj-fa10092fd7300a453b8db580ec7a9183.mesh"
+
+[deps]
+
+files=[ "res://.import/pumpkin.obj-fa10092fd7300a453b8db580ec7a9183.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/pumpkin.obj"
+dest_files=[ "res://.import/pumpkin.obj-fa10092fd7300a453b8db580ec7a9183.mesh", "res://.import/pumpkin.obj-fa10092fd7300a453b8db580ec7a9183.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

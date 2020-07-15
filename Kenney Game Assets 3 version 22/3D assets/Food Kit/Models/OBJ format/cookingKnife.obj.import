@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingKnife.obj-57f8839ba6e59b88c2dd613a0b0129ec.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingKnife.obj-57f8839ba6e59b88c2dd613a0b0129ec.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/cookingKnife.obj"
+dest_files=[ "res://.import/cookingKnife.obj-57f8839ba6e59b88c2dd613a0b0129ec.mesh", "res://.import/cookingKnife.obj-57f8839ba6e59b88c2dd613a0b0129ec.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

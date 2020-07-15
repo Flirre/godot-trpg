@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chinese.obj-36f521c7aba70791311430d6277c2afd.mesh"
+
+[deps]
+
+files=[ "res://.import/chinese.obj-36f521c7aba70791311430d6277c2afd.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/chinese.obj"
+dest_files=[ "res://.import/chinese.obj-36f521c7aba70791311430d6277c2afd.mesh", "res://.import/chinese.obj-36f521c7aba70791311430d6277c2afd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

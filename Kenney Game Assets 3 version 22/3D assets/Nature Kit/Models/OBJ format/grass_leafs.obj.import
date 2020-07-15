@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grass_leafs.obj-d887836b0c9768ec0774b7ccee9d6f4f.mesh"
+
+[deps]
+
+files=[ "res://.import/grass_leafs.obj-d887836b0c9768ec0774b7ccee9d6f4f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/grass_leafs.obj"
+dest_files=[ "res://.import/grass_leafs.obj-d887836b0c9768ec0774b7ccee9d6f4f.mesh", "res://.import/grass_leafs.obj-d887836b0c9768ec0774b7ccee9d6f4f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

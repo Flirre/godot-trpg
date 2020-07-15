@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/truckFlat.obj-65844d7f5c1ef71dfd8f521cf4478ac3.mesh"
+
+[deps]
+
+files=[ "res://.import/truckFlat.obj-65844d7f5c1ef71dfd8f521cf4478ac3.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/truckFlat.obj"
+dest_files=[ "res://.import/truckFlat.obj-65844d7f5c1ef71dfd8f521cf4478ac3.mesh", "res://.import/truckFlat.obj-65844d7f5c1ef71dfd8f521cf4478ac3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

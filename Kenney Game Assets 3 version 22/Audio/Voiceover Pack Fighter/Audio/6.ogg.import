@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/6.ogg-bc40b6513853b46b3245da653c7e2e6a.oggstr"
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/Audio/Voiceover Pack Fighter/Audio/6.ogg"
+dest_files=[ "res://.import/6.ogg-bc40b6513853b46b3245da653c7e2e6a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

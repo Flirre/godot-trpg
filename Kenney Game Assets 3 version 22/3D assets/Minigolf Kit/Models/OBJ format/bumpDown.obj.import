@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bumpDown.obj-7194539972c87ea35bf7623cff5d9d27.mesh"
+
+[deps]
+
+files=[ "res://.import/bumpDown.obj-7194539972c87ea35bf7623cff5d9d27.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/bumpDown.obj"
+dest_files=[ "res://.import/bumpDown.obj-7194539972c87ea35bf7623cff5d9d27.mesh", "res://.import/bumpDown.obj-7194539972c87ea35bf7623cff5d9d27.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

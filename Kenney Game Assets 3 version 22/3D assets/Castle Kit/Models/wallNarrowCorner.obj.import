@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowCorner.obj-689845d6c0e8e3f578c217ffe28f1824.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowCorner.obj-689845d6c0e8e3f578c217ffe28f1824.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/wallNarrowCorner.obj"
+dest_files=[ "res://.import/wallNarrowCorner.obj-689845d6c0e8e3f578c217ffe28f1824.mesh", "res://.import/wallNarrowCorner.obj-689845d6c0e8e3f578c217ffe28f1824.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

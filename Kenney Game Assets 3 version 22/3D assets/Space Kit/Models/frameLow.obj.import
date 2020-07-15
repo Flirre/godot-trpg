@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/frameLow.obj-b4f0caa56c6970df4f70187ff562defb.mesh"
+
+[deps]
+
+files=[ "res://.import/frameLow.obj-b4f0caa56c6970df4f70187ff562defb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/frameLow.obj"
+dest_files=[ "res://.import/frameLow.obj-b4f0caa56c6970df4f70187ff562defb.mesh", "res://.import/frameLow.obj-b4f0caa56c6970df4f70187ff562defb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

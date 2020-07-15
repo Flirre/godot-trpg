@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cuttingBoardJapanese.obj-e4b2c5a625b5cfe742e15e20e0a1e18a.mesh"
+
+[deps]
+
+files=[ "res://.import/cuttingBoardJapanese.obj-e4b2c5a625b5cfe742e15e20e0a1e18a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/cuttingBoardJapanese.obj"
+dest_files=[ "res://.import/cuttingBoardJapanese.obj-e4b2c5a625b5cfe742e15e20e0a1e18a.mesh", "res://.import/cuttingBoardJapanese.obj-e4b2c5a625b5cfe742e15e20e0a1e18a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

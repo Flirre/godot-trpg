@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/donutChocolate.obj-d8e238b79063cffeab37e0bd5e0d7c38.mesh"
+
+[deps]
+
+files=[ "res://.import/donutChocolate.obj-d8e238b79063cffeab37e0bd5e0d7c38.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/donutChocolate.obj"
+dest_files=[ "res://.import/donutChocolate.obj-d8e238b79063cffeab37e0bd5e0d7c38.mesh", "res://.import/donutChocolate.obj-d8e238b79063cffeab37e0bd5e0d7c38.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

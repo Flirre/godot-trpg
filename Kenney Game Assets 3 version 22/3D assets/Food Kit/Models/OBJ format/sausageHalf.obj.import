@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sausageHalf.obj-8026dee58104132f9bb588b60cb90c36.mesh"
+
+[deps]
+
+files=[ "res://.import/sausageHalf.obj-8026dee58104132f9bb588b60cb90c36.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/sausageHalf.obj"
+dest_files=[ "res://.import/sausageHalf.obj-8026dee58104132f9bb588b60cb90c36.mesh", "res://.import/sausageHalf.obj-8026dee58104132f9bb588b60cb90c36.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/astronaut.obj-2984b07786af0b4a7f95b50f85fcb82b.mesh"
+
+[deps]
+
+files=[ "res://.import/astronaut.obj-2984b07786af0b4a7f95b50f85fcb82b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/astronaut.obj"
+dest_files=[ "res://.import/astronaut.obj-2984b07786af0b4a7f95b50f85fcb82b.mesh", "res://.import/astronaut.obj-2984b07786af0b4a7f95b50f85fcb82b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

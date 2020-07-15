@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipeOpening.obj-0d18ecb9fca8a8272b1ed553bd47dd41.mesh"
+
+[deps]
+
+files=[ "res://.import/pipeOpening.obj-0d18ecb9fca8a8272b1ed553bd47dd41.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/pipeOpening.obj"
+dest_files=[ "res://.import/pipeOpening.obj-0d18ecb9fca8a8272b1ed553bd47dd41.mesh", "res://.import/pipeOpening.obj-0d18ecb9fca8a8272b1ed553bd47dd41.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

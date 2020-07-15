@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wheelVintage.obj-d18f71c22c73ba09a2c5531e1f439daf.mesh"
+
+[deps]
+
+files=[ "res://.import/wheelVintage.obj-d18f71c22c73ba09a2c5531e1f439daf.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/wheelVintage.obj"
+dest_files=[ "res://.import/wheelVintage.obj-d18f71c22c73ba09a2c5531e1f439daf.mesh", "res://.import/wheelVintage.obj-d18f71c22c73ba09a2c5531e1f439daf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

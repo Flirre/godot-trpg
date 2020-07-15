@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/loungeSofaLong.obj-fe2618374d4abb261eddd93239686e63.mesh"
+
+[deps]
+
+files=[ "res://.import/loungeSofaLong.obj-fe2618374d4abb261eddd93239686e63.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/loungeSofaLong.obj"
+dest_files=[ "res://.import/loungeSofaLong.obj-fe2618374d4abb261eddd93239686e63.mesh", "res://.import/loungeSofaLong.obj-fe2618374d4abb261eddd93239686e63.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

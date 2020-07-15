@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/desk.obj-44d85c039d9147775ef2d961cd15b5cb.mesh"
+
+[deps]
+
+files=[ "res://.import/desk.obj-44d85c039d9147775ef2d961cd15b5cb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/desk.obj"
+dest_files=[ "res://.import/desk.obj-44d85c039d9147775ef2d961cd15b5cb.mesh", "res://.import/desk.obj-44d85c039d9147775ef2d961cd15b5cb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

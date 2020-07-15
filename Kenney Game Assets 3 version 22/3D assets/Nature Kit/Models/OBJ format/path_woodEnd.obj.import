@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/path_woodEnd.obj-533ddbff5a1238e81e0e02d3b184e40d.mesh"
+
+[deps]
+
+files=[ "res://.import/path_woodEnd.obj-533ddbff5a1238e81e0e02d3b184e40d.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/path_woodEnd.obj"
+dest_files=[ "res://.import/path_woodEnd.obj-533ddbff5a1238e81e0e02d3b184e40d.mesh", "res://.import/path_woodEnd.obj-533ddbff5a1238e81e0e02d3b184e40d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

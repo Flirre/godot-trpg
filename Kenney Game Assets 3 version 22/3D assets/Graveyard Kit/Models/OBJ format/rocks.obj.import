@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocks.obj-c97aa0b398a143dde1734781b3890654.mesh"
+
+[deps]
+
+files=[ "res://.import/rocks.obj-c97aa0b398a143dde1734781b3890654.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/rocks.obj"
+dest_files=[ "res://.import/rocks.obj-c97aa0b398a143dde1734781b3890654.mesh", "res://.import/rocks.obj-c97aa0b398a143dde1734781b3890654.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

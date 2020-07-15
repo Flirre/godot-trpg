@@ -1,0 +1,585 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 530,
+      "type": "VEC3",
+      "max": [
+        0.060000002384185791,
+        0.43500000238418579,
+        1.184999942779541
+      ],
+      "min": [
+        -0.51499998569488525,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 530,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 530,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 530,
+      "type": "VEC2",
+      "max": [
+        46.653541564941406,
+        44.781990051269531
+      ],
+      "min": [
+        -46.653541564941406,
+        -43.494190216064453
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5123,
+      "count": 870,
+      "type": "SCALAR",
+      "max": [
+        413.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 360,
+      "type": "SCALAR",
+      "max": [
+        509.0
+      ],
+      "min": [
+        1.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5123,
+      "count": 30,
+      "type": "SCALAR",
+      "max": [
+        515.0
+      ],
+      "min": [
+        414.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        519.0
+      ],
+      "min": [
+        462.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5123,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        521.0
+      ],
+      "min": [
+        472.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        529.0
+      ],
+      "min": [
+        522.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC3",
+      "max": [
+        0.10000000149011612,
+        0.14000000059604645,
+        0.14000000059604645
+      ],
+      "min": [
+        -1.8047785270195561E-16,
+        -0.14000000059604645,
+        -0.14000000059604645
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.081901460886001587,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.081901460886001587,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC2",
+      "max": [
+        5.5118112564086914,
+        6.5118112564086914
+      ],
+      "min": [
+        -5.5118112564086914,
+        -4.5118112564086914
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 498,
+      "type": "SCALAR",
+      "max": [
+        263.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5123,
+      "count": 210,
+      "type": "SCALAR",
+      "max": [
+        383.0
+      ],
+      "min": [
+        264.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "carSedan.bin",
+      "byteLength": 47880
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6360
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6360,
+      "byteLength": 6360
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12720,
+      "byteLength": 8480
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21200,
+      "byteLength": 4240
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25440,
+      "byteLength": 1740
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27180,
+      "byteLength": 720
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27900,
+      "byteLength": 60
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27960,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 27984,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28008,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 28032,
+      "byteLength": 4608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 32640,
+      "byteLength": 4608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 37248,
+      "byteLength": 6144
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 43392,
+      "byteLength": 3072
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 46464,
+      "byteLength": 996
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47460,
+      "byteLength": 420
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3764706,
+          0.3764706,
+          0.3764706,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "plastic"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9098039,
+          0.333333343,
+          0.3254902,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "paintRed"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.298039228,
+          0.3764706,
+          0.466666669,
+          1.0
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      },
+      "name": "glass"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.956862748,
+          1.0,
+          0.819607854,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "frontLight"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.349019617,
+          0.227450982,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "backLight"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.827451,
+          0.827451,
+          0.827451,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "wheelCover"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.411764681,
+          0.411764681,
+          0.411764681,
+          1.0
+        ],
+        "metallicFactor": 0.5
+      },
+      "name": "carTire"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 5,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 6,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 7,
+          "material": 3
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 8,
+          "material": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 9,
+          "material": 5
+        }
+      ],
+      "name": "body 7"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 6
+        },
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 15,
+          "material": 5
+        }
+      ],
+      "name": "wheelBackLeft 7"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "translation": [
+        5.289465,
+        0.216405392,
+        -1.85846674
+      ],
+      "name": "carSedan_8angles"
+    },
+    {
+      "mesh": 0,
+      "translation": [
+        0.2775,
+        -0.065,
+        -0.735
+      ],
+      "name": "body 7"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        4.32764935E-13
+      ],
+      "translation": [
+        -0.0975000039,
+        -0.0664054,
+        0.19749999
+      ],
+      "name": "wheelBackLeft 7"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.19749999,
+        -0.0617030524,
+        0.19749999
+      ],
+      "name": "wheelBackRight 7"
+    },
+    {
+      "mesh": 1,
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        4.32764935E-13
+      ],
+      "translation": [
+        -0.0975000039,
+        -0.06405423,
+        -0.4675
+      ],
+      "name": "wheelFrontLeft 7"
+    },
+    {
+      "mesh": 1,
+      "translation": [
+        0.19749999,
+        -0.06405423,
+        -0.4675
+      ],
+      "name": "wheelFrontRight 7"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "carSedan"
+    }
+  ]
+}

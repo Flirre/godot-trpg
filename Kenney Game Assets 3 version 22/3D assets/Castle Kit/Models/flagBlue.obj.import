@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flagBlue.obj-7286968f8c9a971e6cd1132c54a8094e.mesh"
+
+[deps]
+
+files=[ "res://.import/flagBlue.obj-7286968f8c9a971e6cd1132c54a8094e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/flagBlue.obj"
+dest_files=[ "res://.import/flagBlue.obj-7286968f8c9a971e6cd1132c54a8094e.mesh", "res://.import/flagBlue.obj-7286968f8c9a971e6cd1132c54a8094e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

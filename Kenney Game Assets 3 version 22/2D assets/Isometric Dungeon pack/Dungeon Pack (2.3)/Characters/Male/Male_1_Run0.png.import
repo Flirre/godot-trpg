@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/Male_1_Run0.png-1aee7a7b9a8ea8e3f23d6b0cc83a461f.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/2D assets/Isometric Dungeon pack/Dungeon Pack (2.3)/Characters/Male/Male_1_Run0.png"
+dest_files=[ "res://.import/Male_1_Run0.png-1aee7a7b9a8ea8e3f23d6b0cc83a461f.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

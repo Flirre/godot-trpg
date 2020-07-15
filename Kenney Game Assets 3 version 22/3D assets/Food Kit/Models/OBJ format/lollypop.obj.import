@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lollypop.obj-aa58c97719183db125918c2fd1dd0fe2.mesh"
+
+[deps]
+
+files=[ "res://.import/lollypop.obj-aa58c97719183db125918c2fd1dd0fe2.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/lollypop.obj"
+dest_files=[ "res://.import/lollypop.obj-aa58c97719183db125918c2fd1dd0fe2.mesh", "res://.import/lollypop.obj-aa58c97719183db125918c2fd1dd0fe2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

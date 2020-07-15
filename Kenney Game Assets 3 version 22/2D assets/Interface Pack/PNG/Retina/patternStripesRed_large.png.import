@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/patternStripesRed_large.png-6c6d90a94d8fcec8d25df41421930183.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/2D assets/Interface Pack/PNG/Retina/patternStripesRed_large.png"
+dest_files=[ "res://.import/patternStripesRed_large.png-6c6d90a94d8fcec8d25df41421930183.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

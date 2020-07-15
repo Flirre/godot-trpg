@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stump_roundDetailed.obj-a097303f0d783d17abf2e1df1e971a7c.mesh"
+
+[deps]
+
+files=[ "res://.import/stump_roundDetailed.obj-a097303f0d783d17abf2e1df1e971a7c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/stump_roundDetailed.obj"
+dest_files=[ "res://.import/stump_roundDetailed.obj-a097303f0d783d17abf2e1df1e971a7c.mesh", "res://.import/stump_roundDetailed.obj-a097303f0d783d17abf2e1df1e971a7c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

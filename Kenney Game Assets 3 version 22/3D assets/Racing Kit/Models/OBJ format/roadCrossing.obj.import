@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadCrossing.obj-2be9c7854b0cec944e520901a3fbc150.mesh"
+
+[deps]
+
+files=[ "res://.import/roadCrossing.obj-2be9c7854b0cec944e520901a3fbc150.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadCrossing.obj"
+dest_files=[ "res://.import/roadCrossing.obj-2be9c7854b0cec944e520901a3fbc150.mesh", "res://.import/roadCrossing.obj-2be9c7854b0cec944e520901a3fbc150.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

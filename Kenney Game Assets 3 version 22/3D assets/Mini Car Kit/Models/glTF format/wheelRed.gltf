@@ -1,0 +1,246 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC3",
+      "max": [
+        0.12120000272989273,
+        0.14000000059604645,
+        0.14000000059604645
+      ],
+      "min": [
+        -1.1550583081144927E-13,
+        -0.14000000059604645,
+        -0.14000000059604645
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.081901460886001587,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.081901460886001587,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 432,
+      "type": "VEC2",
+      "max": [
+        5.5118112564086914,
+        6.5118112564086914
+      ],
+      "min": [
+        -5.5118112564086914,
+        -4.5118112564086914
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5121,
+      "count": 354,
+      "type": "SCALAR",
+      "max": [
+        215.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5123,
+      "count": 210,
+      "type": "SCALAR",
+      "max": [
+        335.0
+      ],
+      "min": [
+        216.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5123,
+      "count": 144,
+      "type": "SCALAR",
+      "max": [
+        431.0
+      ],
+      "min": [
+        336.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "wheelRed.bin",
+      "byteLength": 21798
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5184
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 5184,
+      "byteLength": 5184
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 10368,
+      "byteLength": 6912
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 17280,
+      "byteLength": 3456
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20736,
+      "byteLength": 354
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21090,
+      "byteLength": 420
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 21510,
+      "byteLength": 288
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.411764681,
+          0.411764681,
+          0.411764681,
+          1.0
+        ],
+        "metallicFactor": 0.5
+      },
+      "name": "carTire"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9098039,
+          0.333333343,
+          0.3254902,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "paintRed"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.827451,
+          0.827451,
+          0.827451,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "wheelCover"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 5,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 6,
+          "material": 2
+        }
+      ],
+      "name": "wheelRed_8angles"
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "translation": [
+        -4.83550739,
+        0.14,
+        0.596080363
+      ],
+      "name": "wheelRed_8angles"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "wheelRed"
+    }
+  ]
+}

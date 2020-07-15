@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadStraightLongBumpRound.obj-858c96c918013d35823970ec22c2caab.mesh"
+
+[deps]
+
+files=[ "res://.import/roadStraightLongBumpRound.obj-858c96c918013d35823970ec22c2caab.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadStraightLongBumpRound.obj"
+dest_files=[ "res://.import/roadStraightLongBumpRound.obj-858c96c918013d35823970ec22c2caab.mesh", "res://.import/roadStraightLongBumpRound.obj-858c96c918013d35823970ec22c2caab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

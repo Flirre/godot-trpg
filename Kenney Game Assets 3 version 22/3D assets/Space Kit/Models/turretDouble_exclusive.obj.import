@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/turretDouble_exclusive.obj-6b5e1ce76ed71d00ded1bb726a8e7663.mesh"
+
+[deps]
+
+files=[ "res://.import/turretDouble_exclusive.obj-6b5e1ce76ed71d00ded1bb726a8e7663.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/turretDouble_exclusive.obj"
+dest_files=[ "res://.import/turretDouble_exclusive.obj-6b5e1ce76ed71d00ded1bb726a8e7663.mesh", "res://.import/turretDouble_exclusive.obj-6b5e1ce76ed71d00ded1bb726a8e7663.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

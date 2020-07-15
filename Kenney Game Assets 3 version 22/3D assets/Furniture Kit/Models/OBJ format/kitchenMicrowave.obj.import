@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenMicrowave.obj-68f83a09c51e1801148b2a81edd0403f.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenMicrowave.obj-68f83a09c51e1801148b2a81edd0403f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/kitchenMicrowave.obj"
+dest_files=[ "res://.import/kitchenMicrowave.obj-68f83a09c51e1801148b2a81edd0403f.mesh", "res://.import/kitchenMicrowave.obj-68f83a09c51e1801148b2a81edd0403f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tentRoofDouble.obj-8035740ecfa8b6b936e176cee03f6c0c.mesh"
+
+[deps]
+
+files=[ "res://.import/tentRoofDouble.obj-8035740ecfa8b6b936e176cee03f6c0c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/tentRoofDouble.obj"
+dest_files=[ "res://.import/tentRoofDouble.obj-8035740ecfa8b6b936e176cee03f6c0c.mesh", "res://.import/tentRoofDouble.obj-8035740ecfa8b6b936e176cee03f6c0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

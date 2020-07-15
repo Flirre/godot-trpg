@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallDoorwaySquare.obj-90a297cc0e8b44bc740fb6435bca2865.mesh"
+
+[deps]
+
+files=[ "res://.import/wallDoorwaySquare.obj-90a297cc0e8b44bc740fb6435bca2865.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallDoorwaySquare.obj"
+dest_files=[ "res://.import/wallDoorwaySquare.obj-90a297cc0e8b44bc740fb6435bca2865.mesh", "res://.import/wallDoorwaySquare.obj-90a297cc0e8b44bc740fb6435bca2865.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tile_bump.obj-ffd9ce19611e9fa1b59050f4e4ff9208.mesh"
+
+[deps]
+
+files=[ "res://.import/tile_bump.obj-ffd9ce19611e9fa1b59050f4e4ff9208.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/tile_bump.obj"
+dest_files=[ "res://.import/tile_bump.obj-ffd9ce19611e9fa1b59050f4e4ff9208.mesh", "res://.import/tile_bump.obj-ffd9ce19611e9fa1b59050f4e4ff9208.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightPost_exclusive.obj-85ca25db85ea4e7986d38bd10598635a.mesh"
+
+[deps]
+
+files=[ "res://.import/lightPost_exclusive.obj-85ca25db85ea4e7986d38bd10598635a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/lightPost_exclusive.obj"
+dest_files=[ "res://.import/lightPost_exclusive.obj-85ca25db85ea4e7986d38bd10598635a.mesh", "res://.import/lightPost_exclusive.obj-85ca25db85ea4e7986d38bd10598635a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gravestoneRoof.obj-b76f0d0f86199745810c3519e97f4d3f.mesh"
+
+[deps]
+
+files=[ "res://.import/gravestoneRoof.obj-b76f0d0f86199745810c3519e97f4d3f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/gravestoneRoof.obj"
+dest_files=[ "res://.import/gravestoneRoof.obj-b76f0d0f86199745810c3519e97f4d3f.mesh", "res://.import/gravestoneRoof.obj-b76f0d0f86199745810c3519e97f4d3f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

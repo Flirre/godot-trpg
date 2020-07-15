@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bowlCereal.obj-6614ca4be97d4fe2886ee19445dbbe36.mesh"
+
+[deps]
+
+files=[ "res://.import/bowlCereal.obj-6614ca4be97d4fe2886ee19445dbbe36.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/bowlCereal.obj"
+dest_files=[ "res://.import/bowlCereal.obj-6614ca4be97d4fe2886ee19445dbbe36.mesh", "res://.import/bowlCereal.obj-6614ca4be97d4fe2886ee19445dbbe36.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

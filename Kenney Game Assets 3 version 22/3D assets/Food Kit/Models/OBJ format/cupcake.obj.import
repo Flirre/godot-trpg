@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cupcake.obj-53332fb14a7a9e576860ce140b16d13d.mesh"
+
+[deps]
+
+files=[ "res://.import/cupcake.obj-53332fb14a7a9e576860ce140b16d13d.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/cupcake.obj"
+dest_files=[ "res://.import/cupcake.obj-53332fb14a7a9e576860ce140b16d13d.mesh", "res://.import/cupcake.obj-53332fb14a7a9e576860ce140b16d13d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

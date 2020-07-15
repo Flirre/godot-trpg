@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairsStoneCorner.obj-3631970f2309e5f7c386621b5c82f579.mesh"
+
+[deps]
+
+files=[ "res://.import/stairsStoneCorner.obj-3631970f2309e5f7c386621b5c82f579.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/stairsStoneCorner.obj"
+dest_files=[ "res://.import/stairsStoneCorner.obj-3631970f2309e5f7c386621b5c82f579.mesh", "res://.import/stairsStoneCorner.obj-3631970f2309e5f7c386621b5c82f579.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

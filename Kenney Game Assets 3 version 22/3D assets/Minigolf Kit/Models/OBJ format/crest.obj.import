@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crest.obj-01011c81913c8cea3447c12e1478785f.mesh"
+
+[deps]
+
+files=[ "res://.import/crest.obj-01011c81913c8cea3447c12e1478785f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/crest.obj"
+dest_files=[ "res://.import/crest.obj-01011c81913c8cea3447c12e1478785f.mesh", "res://.import/crest.obj-01011c81913c8cea3447c12e1478785f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

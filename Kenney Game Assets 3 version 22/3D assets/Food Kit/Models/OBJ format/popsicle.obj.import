@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/popsicle.obj-6a1da227c0e6a0690572435f3c7fc88b.mesh"
+
+[deps]
+
+files=[ "res://.import/popsicle.obj-6a1da227c0e6a0690572435f3c7fc88b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/popsicle.obj"
+dest_files=[ "res://.import/popsicle.obj-6a1da227c0e6a0690572435f3c7fc88b.mesh", "res://.import/popsicle.obj-6a1da227c0e6a0690572435f3c7fc88b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

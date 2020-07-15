@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/buildingCorridorFactoryStacks_exclusive.obj-5c3729f6ee80043222f869fd2139d308.mesh"
+
+[deps]
+
+files=[ "res://.import/buildingCorridorFactoryStacks_exclusive.obj-5c3729f6ee80043222f869fd2139d308.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/buildingCorridorFactoryStacks_exclusive.obj"
+dest_files=[ "res://.import/buildingCorridorFactoryStacks_exclusive.obj-5c3729f6ee80043222f869fd2139d308.mesh", "res://.import/buildingCorridorFactoryStacks_exclusive.obj-5c3729f6ee80043222f869fd2139d308.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

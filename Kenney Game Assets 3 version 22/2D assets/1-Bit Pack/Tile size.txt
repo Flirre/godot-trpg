@@ -1,0 +1,7 @@
+
+
+
+	# Default size
+
+	Tile size : 16 x 16px
+	Margin    : 1px (or 0px when using the 'packed' sheets)

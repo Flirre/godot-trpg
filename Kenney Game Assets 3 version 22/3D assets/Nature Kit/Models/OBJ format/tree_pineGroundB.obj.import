@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_pineGroundB.obj-d4ce6f41468e8c6cdd2d500ffda921ab.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_pineGroundB.obj-d4ce6f41468e8c6cdd2d500ffda921ab.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/tree_pineGroundB.obj"
+dest_files=[ "res://.import/tree_pineGroundB.obj-d4ce6f41468e8c6cdd2d500ffda921ab.mesh", "res://.import/tree_pineGroundB.obj-d4ce6f41468e8c6cdd2d500ffda921ab.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

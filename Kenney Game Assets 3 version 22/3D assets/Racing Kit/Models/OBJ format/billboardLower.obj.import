@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/billboardLower.obj-c3f3558cb25a50dcfe01b36b6b2e9b69.mesh"
+
+[deps]
+
+files=[ "res://.import/billboardLower.obj-c3f3558cb25a50dcfe01b36b6b2e9b69.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/billboardLower.obj"
+dest_files=[ "res://.import/billboardLower.obj-c3f3558cb25a50dcfe01b36b6b2e9b69.mesh", "res://.import/billboardLower.obj-c3f3558cb25a50dcfe01b36b6b2e9b69.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tile_riverCorner.obj-c6fc699612fa1f8c9859646201635912.mesh"
+
+[deps]
+
+files=[ "res://.import/tile_riverCorner.obj-c6fc699612fa1f8c9859646201635912.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/tile_riverCorner.obj"
+dest_files=[ "res://.import/tile_riverCorner.obj-c6fc699612fa1f8c9859646201635912.mesh", "res://.import/tile_riverCorner.obj-c6fc699612fa1f8c9859646201635912.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

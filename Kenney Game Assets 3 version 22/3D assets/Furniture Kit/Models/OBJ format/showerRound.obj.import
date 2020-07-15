@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/showerRound.obj-54690f65bba09e8314e83f46c7c81de1.mesh"
+
+[deps]
+
+files=[ "res://.import/showerRound.obj-54690f65bba09e8314e83f46c7c81de1.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/showerRound.obj"
+dest_files=[ "res://.import/showerRound.obj-54690f65bba09e8314e83f46c7c81de1.mesh", "res://.import/showerRound.obj-54690f65bba09e8314e83f46c7c81de1.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

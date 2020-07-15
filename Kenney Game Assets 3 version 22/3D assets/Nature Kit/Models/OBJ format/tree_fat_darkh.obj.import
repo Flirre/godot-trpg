@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_fat_darkh.obj-1256b1294c765c7d93207dde8282b908.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_fat_darkh.obj-1256b1294c765c7d93207dde8282b908.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/tree_fat_darkh.obj"
+dest_files=[ "res://.import/tree_fat_darkh.obj-1256b1294c765c7d93207dde8282b908.mesh", "res://.import/tree_fat_darkh.obj-1256b1294c765c7d93207dde8282b908.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

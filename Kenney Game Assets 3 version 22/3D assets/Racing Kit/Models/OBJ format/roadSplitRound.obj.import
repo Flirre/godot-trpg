@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadSplitRound.obj-d2315ca62a0f798ef233897c6d6b1e1c.mesh"
+
+[deps]
+
+files=[ "res://.import/roadSplitRound.obj-d2315ca62a0f798ef233897c6d6b1e1c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadSplitRound.obj"
+dest_files=[ "res://.import/roadSplitRound.obj-d2315ca62a0f798ef233897c6d6b1e1c.mesh", "res://.import/roadSplitRound.obj-d2315ca62a0f798ef233897c6d6b1e1c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tie_breaker.ogg-0cb8d7ee74f53f11e44f5ff03068c891.oggstr"
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/Audio/Voiceover Pack Fighter/Audio/tie_breaker.ogg"
+dest_files=[ "res://.import/tie_breaker.ogg-0cb8d7ee74f53f11e44f5ff03068c891.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

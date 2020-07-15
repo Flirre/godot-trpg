@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cliff_cornerTop_stone.obj-a0ba072b3b4ce5963e534fa9e11f223c.mesh"
+
+[deps]
+
+files=[ "res://.import/cliff_cornerTop_stone.obj-a0ba072b3b4ce5963e534fa9e11f223c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/cliff_cornerTop_stone.obj"
+dest_files=[ "res://.import/cliff_cornerTop_stone.obj-a0ba072b3b4ce5963e534fa9e11f223c.mesh", "res://.import/cliff_cornerTop_stone.obj-a0ba072b3b4ce5963e534fa9e11f223c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

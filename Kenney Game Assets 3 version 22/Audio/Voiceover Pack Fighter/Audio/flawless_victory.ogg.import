@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/flawless_victory.ogg-f2406928af83664bcc11ba9f1b464117.oggstr"
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/Audio/Voiceover Pack Fighter/Audio/flawless_victory.ogg"
+dest_files=[ "res://.import/flawless_victory.ogg-f2406928af83664bcc11ba9f1b464117.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

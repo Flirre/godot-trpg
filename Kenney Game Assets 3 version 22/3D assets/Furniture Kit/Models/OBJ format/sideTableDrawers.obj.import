@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/sideTableDrawers.obj-f4547814254439a8ad10e067fc1c2a50.mesh"
+
+[deps]
+
+files=[ "res://.import/sideTableDrawers.obj-f4547814254439a8ad10e067fc1c2a50.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/sideTableDrawers.obj"
+dest_files=[ "res://.import/sideTableDrawers.obj-f4547814254439a8ad10e067fc1c2a50.mesh", "res://.import/sideTableDrawers.obj-f4547814254439a8ad10e067fc1c2a50.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

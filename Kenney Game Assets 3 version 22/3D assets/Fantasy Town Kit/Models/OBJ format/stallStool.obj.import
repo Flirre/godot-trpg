@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stallStool.obj-3d7a2be70e2b7247ea3d984749e0751a.mesh"
+
+[deps]
+
+files=[ "res://.import/stallStool.obj-3d7a2be70e2b7247ea3d984749e0751a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/stallStool.obj"
+dest_files=[ "res://.import/stallStool.obj-3d7a2be70e2b7247ea3d984749e0751a.mesh", "res://.import/stallStool.obj-3d7a2be70e2b7247ea3d984749e0751a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

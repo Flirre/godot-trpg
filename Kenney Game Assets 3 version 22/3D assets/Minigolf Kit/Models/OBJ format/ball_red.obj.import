@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ball_red.obj-b5fa00809edb5f11b5eb885a61f60dfe.mesh"
+
+[deps]
+
+files=[ "res://.import/ball_red.obj-b5fa00809edb5f11b5eb885a61f60dfe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/ball_red.obj"
+dest_files=[ "res://.import/ball_red.obj-b5fa00809edb5f11b5eb885a61f60dfe.mesh", "res://.import/ball_red.obj-b5fa00809edb5f11b5eb885a61f60dfe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

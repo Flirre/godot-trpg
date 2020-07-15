@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carTractorShovel.obj-99b3d2d89eefe6e8097c18cfe67ea3de.mesh"
+
+[deps]
+
+files=[ "res://.import/carTractorShovel.obj-99b3d2d89eefe6e8097c18cfe67ea3de.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carTractorShovel.obj"
+dest_files=[ "res://.import/carTractorShovel.obj-99b3d2d89eefe6e8097c18cfe67ea3de.mesh", "res://.import/carTractorShovel.obj-99b3d2d89eefe6e8097c18cfe67ea3de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

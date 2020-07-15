@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carTruck.obj-c6ac641e0773a4d5518214522bf64595.mesh"
+
+[deps]
+
+files=[ "res://.import/carTruck.obj-c6ac641e0773a4d5518214522bf64595.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carTruck.obj"
+dest_files=[ "res://.import/carTruck.obj-c6ac641e0773a4d5518214522bf64595.mesh", "res://.import/carTruck.obj-c6ac641e0773a4d5518214522bf64595.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

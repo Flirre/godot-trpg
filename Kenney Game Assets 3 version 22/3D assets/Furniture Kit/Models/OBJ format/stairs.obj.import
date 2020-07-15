@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stairs.obj-d63119f32ce5f739f0af8096b29aabdb.mesh"
+
+[deps]
+
+files=[ "res://.import/stairs.obj-d63119f32ce5f739f0af8096b29aabdb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/stairs.obj"
+dest_files=[ "res://.import/stairs.obj-d63119f32ce5f739f0af8096b29aabdb.mesh", "res://.import/stairs.obj-d63119f32ce5f739f0af8096b29aabdb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

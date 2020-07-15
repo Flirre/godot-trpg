@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pitsOfficeRoof.obj-125207f747e11df0f2795af7a10fba06.mesh"
+
+[deps]
+
+files=[ "res://.import/pitsOfficeRoof.obj-125207f747e11df0f2795af7a10fba06.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/pitsOfficeRoof.obj"
+dest_files=[ "res://.import/pitsOfficeRoof.obj-125207f747e11df0f2795af7a10fba06.mesh", "res://.import/pitsOfficeRoof.obj-125207f747e11df0f2795af7a10fba06.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

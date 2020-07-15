@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/robot.obj-52269dd82f67e7d47fe08b872fbcec6e.mesh"
+
+[deps]
+
+files=[ "res://.import/robot.obj-52269dd82f67e7d47fe08b872fbcec6e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/robot.obj"
+dest_files=[ "res://.import/robot.obj-52269dd82f67e7d47fe08b872fbcec6e.mesh", "res://.import/robot.obj-52269dd82f67e7d47fe08b872fbcec6e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

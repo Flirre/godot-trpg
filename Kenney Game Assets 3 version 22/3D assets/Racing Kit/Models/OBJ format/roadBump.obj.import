@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadBump.obj-1b72fe1d3405055437091a5d77e24f33.mesh"
+
+[deps]
+
+files=[ "res://.import/roadBump.obj-1b72fe1d3405055437091a5d77e24f33.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadBump.obj"
+dest_files=[ "res://.import/roadBump.obj-1b72fe1d3405055437091a5d77e24f33.mesh", "res://.import/roadBump.obj-1b72fe1d3405055437091a5d77e24f33.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

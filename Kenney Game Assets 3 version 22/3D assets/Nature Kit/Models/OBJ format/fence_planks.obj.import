@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fence_planks.obj-f368835d51c9dfd3a14fe4d52bf52514.mesh"
+
+[deps]
+
+files=[ "res://.import/fence_planks.obj-f368835d51c9dfd3a14fe4d52bf52514.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/fence_planks.obj"
+dest_files=[ "res://.import/fence_planks.obj-f368835d51c9dfd3a14fe4d52bf52514.mesh", "res://.import/fence_planks.obj-f368835d51c9dfd3a14fe4d52bf52514.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

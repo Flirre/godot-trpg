@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWoodBroken.obj-6c369538d5b84f44abc6e273ac048b73.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWoodBroken.obj-6c369538d5b84f44abc6e273ac048b73.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallWoodBroken.obj"
+dest_files=[ "res://.import/wallWoodBroken.obj-6c369538d5b84f44abc6e273ac048b73.mesh", "res://.import/wallWoodBroken.obj-6c369538d5b84f44abc6e273ac048b73.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

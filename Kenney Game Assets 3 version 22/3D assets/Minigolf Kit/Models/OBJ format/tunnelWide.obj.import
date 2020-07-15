@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tunnelWide.obj-a90f45e05288262148dab84d801cf73f.mesh"
+
+[deps]
+
+files=[ "res://.import/tunnelWide.obj-a90f45e05288262148dab84d801cf73f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/tunnelWide.obj"
+dest_files=[ "res://.import/tunnelWide.obj-a90f45e05288262148dab84d801cf73f.mesh", "res://.import/tunnelWide.obj-a90f45e05288262148dab84d801cf73f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

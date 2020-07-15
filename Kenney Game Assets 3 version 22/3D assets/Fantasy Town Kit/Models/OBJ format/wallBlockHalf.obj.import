@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallBlockHalf.obj-7f1f4f5c3b1b1795b19fc38630a3f82e.mesh"
+
+[deps]
+
+files=[ "res://.import/wallBlockHalf.obj-7f1f4f5c3b1b1795b19fc38630a3f82e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallBlockHalf.obj"
+dest_files=[ "res://.import/wallBlockHalf.obj-7f1f4f5c3b1b1795b19fc38630a3f82e.mesh", "res://.import/wallBlockHalf.obj-7f1f4f5c3b1b1795b19fc38630a3f82e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

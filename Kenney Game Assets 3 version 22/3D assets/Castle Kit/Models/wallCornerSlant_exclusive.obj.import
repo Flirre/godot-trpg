@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallCornerSlant_exclusive.obj-6ee3b943e270795bbb4fdd92dab94469.mesh"
+
+[deps]
+
+files=[ "res://.import/wallCornerSlant_exclusive.obj-6ee3b943e270795bbb4fdd92dab94469.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/wallCornerSlant_exclusive.obj"
+dest_files=[ "res://.import/wallCornerSlant_exclusive.obj-6ee3b943e270795bbb4fdd92dab94469.mesh", "res://.import/wallCornerSlant_exclusive.obj-6ee3b943e270795bbb4fdd92dab94469.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/narrowSquare.obj-3a824327e2b591cc6c97174e367745ea.mesh"
+
+[deps]
+
+files=[ "res://.import/narrowSquare.obj-3a824327e2b591cc6c97174e367745ea.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/narrowSquare.obj"
+dest_files=[ "res://.import/narrowSquare.obj-3a824327e2b591cc6c97174e367745ea.mesh", "res://.import/narrowSquare.obj-3a824327e2b591cc6c97174e367745ea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

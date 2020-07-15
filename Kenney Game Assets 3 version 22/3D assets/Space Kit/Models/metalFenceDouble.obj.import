@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/metalFenceDouble.obj-9e8c52c434534c1587623da1f0a5d71e.mesh"
+
+[deps]
+
+files=[ "res://.import/metalFenceDouble.obj-9e8c52c434534c1587623da1f0a5d71e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/metalFenceDouble.obj"
+dest_files=[ "res://.import/metalFenceDouble.obj-9e8c52c434534c1587623da1f0a5d71e.mesh", "res://.import/metalFenceDouble.obj-9e8c52c434534c1587623da1f0a5d71e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

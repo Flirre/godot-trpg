@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building_smelter.obj-5fd11eef94fdc48e6d94c0696f983f9c.mesh"
+
+[deps]
+
+files=[ "res://.import/building_smelter.obj-5fd11eef94fdc48e6d94c0696f983f9c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Hexagon Kit/Models/OBJ format/building_smelter.obj"
+dest_files=[ "res://.import/building_smelter.obj-5fd11eef94fdc48e6d94c0696f983f9c.mesh", "res://.import/building_smelter.obj-5fd11eef94fdc48e6d94c0696f983f9c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

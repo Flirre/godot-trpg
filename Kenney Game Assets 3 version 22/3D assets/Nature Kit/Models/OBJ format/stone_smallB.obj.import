@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/stone_smallB.obj-bb37a79ed9268e44eb4cae37eebad781.mesh"
+
+[deps]
+
+files=[ "res://.import/stone_smallB.obj-bb37a79ed9268e44eb4cae37eebad781.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/stone_smallB.obj"
+dest_files=[ "res://.import/stone_smallB.obj-bb37a79ed9268e44eb4cae37eebad781.mesh", "res://.import/stone_smallB.obj-bb37a79ed9268e44eb4cae37eebad781.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

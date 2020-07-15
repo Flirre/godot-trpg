@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/error_004.ogg-38b28da19a164da7c6bfa04e5108b3dc.oggstr"
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/Audio/Interface Sounds/Audio/error_004.ogg"
+dest_files=[ "res://.import/error_004.ogg-38b28da19a164da7c6bfa04e5108b3dc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

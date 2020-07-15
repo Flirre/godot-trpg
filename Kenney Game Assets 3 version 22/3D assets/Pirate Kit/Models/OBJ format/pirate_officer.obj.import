@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pirate_officer.obj-9639de96674426df1ed2347854e3a892.mesh"
+
+[deps]
+
+files=[ "res://.import/pirate_officer.obj-9639de96674426df1ed2347854e3a892.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/pirate_officer.obj"
+dest_files=[ "res://.import/pirate_officer.obj-9639de96674426df1ed2347854e3a892.mesh", "res://.import/pirate_officer.obj-9639de96674426df1ed2347854e3a892.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadCornerBridgeSmall.obj-70d50b784b15d3ab65a1dc5726684add.mesh"
+
+[deps]
+
+files=[ "res://.import/roadCornerBridgeSmall.obj-70d50b784b15d3ab65a1dc5726684add.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadCornerBridgeSmall.obj"
+dest_files=[ "res://.import/roadCornerBridgeSmall.obj-70d50b784b15d3ab65a1dc5726684add.mesh", "res://.import/roadCornerBridgeSmall.obj-70d50b784b15d3ab65a1dc5726684add.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

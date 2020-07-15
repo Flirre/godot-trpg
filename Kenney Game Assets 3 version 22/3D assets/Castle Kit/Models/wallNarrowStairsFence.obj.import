@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowStairsFence.obj-44f3ed0efb6ff2c6a287763a1e0772bf.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowStairsFence.obj-44f3ed0efb6ff2c6a287763a1e0772bf.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/wallNarrowStairsFence.obj"
+dest_files=[ "res://.import/wallNarrowStairsFence.obj-44f3ed0efb6ff2c6a287763a1e0772bf.mesh", "res://.import/wallNarrowStairsFence.obj-44f3ed0efb6ff2c6a287763a1e0772bf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pillowLong.obj-f00a114fb12b3ddcb3c83694636462d8.mesh"
+
+[deps]
+
+files=[ "res://.import/pillowLong.obj-f00a114fb12b3ddcb3c83694636462d8.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/pillowLong.obj"
+dest_files=[ "res://.import/pillowLong.obj-f00a114fb12b3ddcb3c83694636462d8.mesh", "res://.import/pillowLong.obj-f00a114fb12b3ddcb3c83694636462d8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

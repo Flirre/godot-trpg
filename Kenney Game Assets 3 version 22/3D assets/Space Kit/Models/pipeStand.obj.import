@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipeStand.obj-c6c7f7a9025247fbc16d3a644f1444dd.mesh"
+
+[deps]
+
+files=[ "res://.import/pipeStand.obj-c6c7f7a9025247fbc16d3a644f1444dd.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/pipeStand.obj"
+dest_files=[ "res://.import/pipeStand.obj-c6c7f7a9025247fbc16d3a644f1444dd.mesh", "res://.import/pipeStand.obj-c6c7f7a9025247fbc16d3a644f1444dd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

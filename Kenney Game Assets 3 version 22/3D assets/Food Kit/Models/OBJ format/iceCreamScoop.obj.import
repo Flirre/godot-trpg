@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/iceCreamScoop.obj-d2021b89e5b48330fa5d61e1ad59fb5b.mesh"
+
+[deps]
+
+files=[ "res://.import/iceCreamScoop.obj-d2021b89e5b48330fa5d61e1ad59fb5b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/iceCreamScoop.obj"
+dest_files=[ "res://.import/iceCreamScoop.obj-d2021b89e5b48330fa5d61e1ad59fb5b.mesh", "res://.import/iceCreamScoop.obj-d2021b89e5b48330fa5d61e1ad59fb5b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

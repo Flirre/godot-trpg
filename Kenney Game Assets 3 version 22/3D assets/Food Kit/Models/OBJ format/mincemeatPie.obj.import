@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/mincemeatPie.obj-63352373e33c8aec2abe520642395576.mesh"
+
+[deps]
+
+files=[ "res://.import/mincemeatPie.obj-63352373e33c8aec2abe520642395576.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/mincemeatPie.obj"
+dest_files=[ "res://.import/mincemeatPie.obj-63352373e33c8aec2abe520642395576.mesh", "res://.import/mincemeatPie.obj-63352373e33c8aec2abe520642395576.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

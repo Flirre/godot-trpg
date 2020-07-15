@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallHalf.obj-037f3aa41c97147289d7c85a4e759cb2.mesh"
+
+[deps]
+
+files=[ "res://.import/wallHalf.obj-037f3aa41c97147289d7c85a4e759cb2.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/wallHalf.obj"
+dest_files=[ "res://.import/wallHalf.obj-037f3aa41c97147289d7c85a4e759cb2.mesh", "res://.import/wallHalf.obj-037f3aa41c97147289d7c85a4e759cb2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

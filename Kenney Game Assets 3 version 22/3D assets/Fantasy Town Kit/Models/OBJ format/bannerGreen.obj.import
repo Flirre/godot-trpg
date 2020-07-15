@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bannerGreen.obj-38eed32f1fc770afa5d6ea5e37c1de8a.mesh"
+
+[deps]
+
+files=[ "res://.import/bannerGreen.obj-38eed32f1fc770afa5d6ea5e37c1de8a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/bannerGreen.obj"
+dest_files=[ "res://.import/bannerGreen.obj-38eed32f1fc770afa5d6ea5e37c1de8a.mesh", "res://.import/bannerGreen.obj-38eed32f1fc770afa5d6ea5e37c1de8a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

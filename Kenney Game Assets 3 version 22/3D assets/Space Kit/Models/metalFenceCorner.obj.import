@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/metalFenceCorner.obj-7948664742de427a5c1ef4e7ef867b41.mesh"
+
+[deps]
+
+files=[ "res://.import/metalFenceCorner.obj-7948664742de427a5c1ef4e7ef867b41.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/metalFenceCorner.obj"
+dest_files=[ "res://.import/metalFenceCorner.obj-7948664742de427a5c1ef4e7ef867b41.mesh", "res://.import/metalFenceCorner.obj-7948664742de427a5c1ef4e7ef867b41.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

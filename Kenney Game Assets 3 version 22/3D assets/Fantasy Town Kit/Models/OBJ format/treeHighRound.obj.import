@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/treeHighRound.obj-304d10e7597b8e37549ef9265660e140.mesh"
+
+[deps]
+
+files=[ "res://.import/treeHighRound.obj-304d10e7597b8e37549ef9265660e140.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/treeHighRound.obj"
+dest_files=[ "res://.import/treeHighRound.obj-304d10e7597b8e37549ef9265660e140.mesh", "res://.import/treeHighRound.obj-304d10e7597b8e37549ef9265660e140.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

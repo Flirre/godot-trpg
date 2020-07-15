@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/campfire_logs.obj-d9dbcd13c08dca159dc15e2a1383a61c.mesh"
+
+[deps]
+
+files=[ "res://.import/campfire_logs.obj-d9dbcd13c08dca159dc15e2a1383a61c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/campfire_logs.obj"
+dest_files=[ "res://.import/campfire_logs.obj-d9dbcd13c08dca159dc15e2a1383a61c.mesh", "res://.import/campfire_logs.obj-d9dbcd13c08dca159dc15e2a1383a61c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/dimSum.obj-fe14897337d1d1361e66444aedf5805e.mesh"
+
+[deps]
+
+files=[ "res://.import/dimSum.obj-fe14897337d1d1361e66444aedf5805e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/dimSum.obj"
+dest_files=[ "res://.import/dimSum.obj-fe14897337d1d1361e66444aedf5805e.mesh", "res://.import/dimSum.obj-fe14897337d1d1361e66444aedf5805e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

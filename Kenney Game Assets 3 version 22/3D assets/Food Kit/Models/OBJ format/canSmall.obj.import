@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/canSmall.obj-3a72e2ba0fe05e2c184960cbc8128806.mesh"
+
+[deps]
+
+files=[ "res://.import/canSmall.obj-3a72e2ba0fe05e2c184960cbc8128806.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/canSmall.obj"
+dest_files=[ "res://.import/canSmall.obj-3a72e2ba0fe05e2c184960cbc8128806.mesh", "res://.import/canSmall.obj-3a72e2ba0fe05e2c184960cbc8128806.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

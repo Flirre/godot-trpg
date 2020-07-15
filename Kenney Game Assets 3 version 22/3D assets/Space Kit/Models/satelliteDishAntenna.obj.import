@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/satelliteDishAntenna.obj-84a977b22ebeebc081a8f087ca53c248.mesh"
+
+[deps]
+
+files=[ "res://.import/satelliteDishAntenna.obj-84a977b22ebeebc081a8f087ca53c248.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/satelliteDishAntenna.obj"
+dest_files=[ "res://.import/satelliteDishAntenna.obj-84a977b22ebeebc081a8f087ca53c248.mesh", "res://.import/satelliteDishAntenna.obj-84a977b22ebeebc081a8f087ca53c248.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

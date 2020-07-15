@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocksTall.obj-939df8e7491ad49f2a3428049381ef0b.mesh"
+
+[deps]
+
+files=[ "res://.import/rocksTall.obj-939df8e7491ad49f2a3428049381ef0b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/rocksTall.obj"
+dest_files=[ "res://.import/rocksTall.obj-939df8e7491ad49f2a3428049381ef0b.mesh", "res://.import/rocksTall.obj-939df8e7491ad49f2a3428049381ef0b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

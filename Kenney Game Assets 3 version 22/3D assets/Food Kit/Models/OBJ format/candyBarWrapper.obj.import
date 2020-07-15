@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/candyBarWrapper.obj-b24631d70030fc1037ca005fa6ac3780.mesh"
+
+[deps]
+
+files=[ "res://.import/candyBarWrapper.obj-b24631d70030fc1037ca005fa6ac3780.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/candyBarWrapper.obj"
+dest_files=[ "res://.import/candyBarWrapper.obj-b24631d70030fc1037ca005fa6ac3780.mesh", "res://.import/candyBarWrapper.obj-b24631d70030fc1037ca005fa6ac3780.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

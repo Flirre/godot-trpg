@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/arcade_mode.ogg-eb9e599581a0b5a06d3d6538335927ba.oggstr"
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/Audio/Voiceover Pack Fighter/Audio/arcade_mode.ogg"
+dest_files=[ "res://.import/arcade_mode.ogg-eb9e599581a0b5a06d3d6538335927ba.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

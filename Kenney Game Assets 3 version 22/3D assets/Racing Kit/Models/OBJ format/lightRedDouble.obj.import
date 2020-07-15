@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightRedDouble.obj-89c9f18fd7f1b01583ab05e87686f7af.mesh"
+
+[deps]
+
+files=[ "res://.import/lightRedDouble.obj-89c9f18fd7f1b01583ab05e87686f7af.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/lightRedDouble.obj"
+dest_files=[ "res://.import/lightRedDouble.obj-89c9f18fd7f1b01583ab05e87686f7af.mesh", "res://.import/lightRedDouble.obj-89c9f18fd7f1b01583ab05e87686f7af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

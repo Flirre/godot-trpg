@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/delivery.obj-33f9c48a82f68e6f5bc413036ede80e8.mesh"
+
+[deps]
+
+files=[ "res://.import/delivery.obj-33f9c48a82f68e6f5bc413036ede80e8.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/delivery.obj"
+dest_files=[ "res://.import/delivery.obj-33f9c48a82f68e6f5bc413036ede80e8.mesh", "res://.import/delivery.obj-33f9c48a82f68e6f5bc413036ede80e8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

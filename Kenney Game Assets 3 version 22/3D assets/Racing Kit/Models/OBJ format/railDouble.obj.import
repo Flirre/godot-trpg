@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/railDouble.obj-bd0a333dd32808330563b31aabe11665.mesh"
+
+[deps]
+
+files=[ "res://.import/railDouble.obj-bd0a333dd32808330563b31aabe11665.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/railDouble.obj"
+dest_files=[ "res://.import/railDouble.obj-bd0a333dd32808330563b31aabe11665.mesh", "res://.import/railDouble.obj-bd0a333dd32808330563b31aabe11665.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

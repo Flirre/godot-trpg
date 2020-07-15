@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/peanutButter.obj-9f15878992f721b1a7b5e9009d283649.mesh"
+
+[deps]
+
+files=[ "res://.import/peanutButter.obj-9f15878992f721b1a7b5e9009d283649.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/peanutButter.obj"
+dest_files=[ "res://.import/peanutButter.obj-9f15878992f721b1a7b5e9009d283649.mesh", "res://.import/peanutButter.obj-9f15878992f721b1a7b5e9009d283649.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

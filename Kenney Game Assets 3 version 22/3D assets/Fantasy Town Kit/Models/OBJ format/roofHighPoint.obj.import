@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roofHighPoint.obj-95d1b3a9477a04f6351b21a8c4afccd4.mesh"
+
+[deps]
+
+files=[ "res://.import/roofHighPoint.obj-95d1b3a9477a04f6351b21a8c4afccd4.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/roofHighPoint.obj"
+dest_files=[ "res://.import/roofHighPoint.obj-95d1b3a9477a04f6351b21a8c4afccd4.mesh", "res://.import/roofHighPoint.obj-95d1b3a9477a04f6351b21a8c4afccd4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

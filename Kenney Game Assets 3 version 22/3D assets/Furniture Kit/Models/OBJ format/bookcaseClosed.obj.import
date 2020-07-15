@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bookcaseClosed.obj-b13b4185b3a7a72541a0e1793b8b27fe.mesh"
+
+[deps]
+
+files=[ "res://.import/bookcaseClosed.obj-b13b4185b3a7a72541a0e1793b8b27fe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/bookcaseClosed.obj"
+dest_files=[ "res://.import/bookcaseClosed.obj-b13b4185b3a7a72541a0e1793b8b27fe.mesh", "res://.import/bookcaseClosed.obj-b13b4185b3a7a72541a0e1793b8b27fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallBlock.obj-3f2e8f1c5df71c5ec55cc385b66e7215.mesh"
+
+[deps]
+
+files=[ "res://.import/wallBlock.obj-3f2e8f1c5df71c5ec55cc385b66e7215.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallBlock.obj"
+dest_files=[ "res://.import/wallBlock.obj-3f2e8f1c5df71c5ec55cc385b66e7215.mesh", "res://.import/wallBlock.obj-3f2e8f1c5df71c5ec55cc385b66e7215.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

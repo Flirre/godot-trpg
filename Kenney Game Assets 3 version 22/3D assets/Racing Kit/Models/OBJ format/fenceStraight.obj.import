@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceStraight.obj-a9982890ecb9c3efbc9010f688625dde.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceStraight.obj-a9982890ecb9c3efbc9010f688625dde.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/fenceStraight.obj"
+dest_files=[ "res://.import/fenceStraight.obj-a9982890ecb9c3efbc9010f688625dde.mesh", "res://.import/fenceStraight.obj-a9982890ecb9c3efbc9010f688625dde.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tajine.obj-382d55f22a8c024b76a2d2dd616aca4f.mesh"
+
+[deps]
+
+files=[ "res://.import/tajine.obj-382d55f22a8c024b76a2d2dd616aca4f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/tajine.obj"
+dest_files=[ "res://.import/tajine.obj-382d55f22a8c024b76a2d2dd616aca4f.mesh", "res://.import/tajine.obj-382d55f22a8c024b76a2d2dd616aca4f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

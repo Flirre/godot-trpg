@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carJeep.obj-83ba004ea8428dadd007333b7aa6e241.mesh"
+
+[deps]
+
+files=[ "res://.import/carJeep.obj-83ba004ea8428dadd007333b7aa6e241.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carJeep.obj"
+dest_files=[ "res://.import/carJeep.obj-83ba004ea8428dadd007333b7aa6e241.mesh", "res://.import/carJeep.obj-83ba004ea8428dadd007333b7aa6e241.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

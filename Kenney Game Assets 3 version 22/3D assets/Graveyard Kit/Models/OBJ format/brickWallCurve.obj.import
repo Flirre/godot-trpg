@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/brickWallCurve.obj-b3afb31c229f3768a70eddb941150dca.mesh"
+
+[deps]
+
+files=[ "res://.import/brickWallCurve.obj-b3afb31c229f3768a70eddb941150dca.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/brickWallCurve.obj"
+dest_files=[ "res://.import/brickWallCurve.obj-b3afb31c229f3768a70eddb941150dca.mesh", "res://.import/brickWallCurve.obj-b3afb31c229f3768a70eddb941150dca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chopstickFancy.obj-471a5f10ea7c4d02ed0994d42941fc1f.mesh"
+
+[deps]
+
+files=[ "res://.import/chopstickFancy.obj-471a5f10ea7c4d02ed0994d42941fc1f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/chopstickFancy.obj"
+dest_files=[ "res://.import/chopstickFancy.obj-471a5f10ea7c4d02ed0994d42941fc1f.mesh", "res://.import/chopstickFancy.obj-471a5f10ea7c4d02ed0994d42941fc1f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

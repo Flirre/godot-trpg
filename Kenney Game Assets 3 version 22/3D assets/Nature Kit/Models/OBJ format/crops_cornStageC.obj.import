@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crops_cornStageC.obj-dbac7c3149a3b028b9b39a1d6d6509b7.mesh"
+
+[deps]
+
+files=[ "res://.import/crops_cornStageC.obj-dbac7c3149a3b028b9b39a1d6d6509b7.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/crops_cornStageC.obj"
+dest_files=[ "res://.import/crops_cornStageC.obj-dbac7c3149a3b028b9b39a1d6d6509b7.mesh", "res://.import/crops_cornStageC.obj-dbac7c3149a3b028b9b39a1d6d6509b7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

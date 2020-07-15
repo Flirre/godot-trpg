@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/chocolateWrapper.obj-cfab17d8ee115cbaef946043262f4e4a.mesh"
+
+[deps]
+
+files=[ "res://.import/chocolateWrapper.obj-cfab17d8ee115cbaef946043262f4e4a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/chocolateWrapper.obj"
+dest_files=[ "res://.import/chocolateWrapper.obj-cfab17d8ee115cbaef946043262f4e4a.mesh", "res://.import/chocolateWrapper.obj-cfab17d8ee115cbaef946043262f4e4a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

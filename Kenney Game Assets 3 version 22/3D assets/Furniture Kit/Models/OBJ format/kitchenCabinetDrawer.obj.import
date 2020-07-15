@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenCabinetDrawer.obj-0ded1b26de73a0416473a847ae108e35.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenCabinetDrawer.obj-0ded1b26de73a0416473a847ae108e35.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/kitchenCabinetDrawer.obj"
+dest_files=[ "res://.import/kitchenCabinetDrawer.obj-0ded1b26de73a0416473a847ae108e35.mesh", "res://.import/kitchenCabinetDrawer.obj-0ded1b26de73a0416473a847ae108e35.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flower_purpleA.obj-3939108ae7431c0154e773957e828b36.mesh"
+
+[deps]
+
+files=[ "res://.import/flower_purpleA.obj-3939108ae7431c0154e773957e828b36.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/flower_purpleA.obj"
+dest_files=[ "res://.import/flower_purpleA.obj-3939108ae7431c0154e773957e828b36.mesh", "res://.import/flower_purpleA.obj-3939108ae7431c0154e773957e828b36.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

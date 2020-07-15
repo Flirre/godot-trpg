@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadEdgeSlope.obj-8af556d22c53b396cbcc658a0d24040a.mesh"
+
+[deps]
+
+files=[ "res://.import/roadEdgeSlope.obj-8af556d22c53b396cbcc658a0d24040a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/roadEdgeSlope.obj"
+dest_files=[ "res://.import/roadEdgeSlope.obj-8af556d22c53b396cbcc658a0d24040a.mesh", "res://.import/roadEdgeSlope.obj-8af556d22c53b396cbcc658a0d24040a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

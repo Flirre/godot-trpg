@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquare_bottomB.obj-c220303faaf9101de8b662de5987831f.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquare_bottomB.obj-c220303faaf9101de8b662de5987831f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/towerSquare_bottomB.obj"
+dest_files=[ "res://.import/towerSquare_bottomB.obj-c220303faaf9101de8b662de5987831f.mesh", "res://.import/towerSquare_bottomB.obj-c220303faaf9101de8b662de5987831f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/utensilSpoon.obj-aeca2a1f9e4417cdba6f664cf1c39b14.mesh"
+
+[deps]
+
+files=[ "res://.import/utensilSpoon.obj-aeca2a1f9e4417cdba6f664cf1c39b14.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/utensilSpoon.obj"
+dest_files=[ "res://.import/utensilSpoon.obj-aeca2a1f9e4417cdba6f664cf1c39b14.mesh", "res://.import/utensilSpoon.obj-aeca2a1f9e4417cdba6f664cf1c39b14.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

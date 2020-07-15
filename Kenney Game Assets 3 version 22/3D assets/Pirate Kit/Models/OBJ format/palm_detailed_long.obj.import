@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/palm_detailed_long.obj-bf93084088105da8b61c9b622029d715.mesh"
+
+[deps]
+
+files=[ "res://.import/palm_detailed_long.obj-bf93084088105da8b61c9b622029d715.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/palm_detailed_long.obj"
+dest_files=[ "res://.import/palm_detailed_long.obj-bf93084088105da8b61c9b622029d715.mesh", "res://.import/palm_detailed_long.obj-bf93084088105da8b61c9b622029d715.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

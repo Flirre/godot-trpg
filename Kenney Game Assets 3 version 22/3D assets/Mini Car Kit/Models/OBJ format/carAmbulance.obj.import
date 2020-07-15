@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carAmbulance.obj-6ac751731b274dc102f88eff8cded76d.mesh"
+
+[deps]
+
+files=[ "res://.import/carAmbulance.obj-6ac751731b274dc102f88eff8cded76d.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carAmbulance.obj"
+dest_files=[ "res://.import/carAmbulance.obj-6ac751731b274dc102f88eff8cded76d.mesh", "res://.import/carAmbulance.obj-6ac751731b274dc102f88eff8cded76d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/kitchenStove.obj-1f2edc4edf9a95c71526bdc9e23b0eca.mesh"
+
+[deps]
+
+files=[ "res://.import/kitchenStove.obj-1f2edc4edf9a95c71526bdc9e23b0eca.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/kitchenStove.obj"
+dest_files=[ "res://.import/kitchenStove.obj-1f2edc4edf9a95c71526bdc9e23b0eca.mesh", "res://.import/kitchenStove.obj-1f2edc4edf9a95c71526bdc9e23b0eca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

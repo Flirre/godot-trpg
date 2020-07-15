@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shieldRed.obj-d416c080e5cf7ecf539c927916bac03e.mesh"
+
+[deps]
+
+files=[ "res://.import/shieldRed.obj-d416c080e5cf7ecf539c927916bac03e.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/shieldRed.obj"
+dest_files=[ "res://.import/shieldRed.obj-d416c080e5cf7ecf539c927916bac03e.mesh", "res://.import/shieldRed.obj-d416c080e5cf7ecf539c927916bac03e.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

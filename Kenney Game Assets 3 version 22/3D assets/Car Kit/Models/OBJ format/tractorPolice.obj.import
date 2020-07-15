@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tractorPolice.obj-a60b4f8b39d71f0c71ea253d5b54af51.mesh"
+
+[deps]
+
+files=[ "res://.import/tractorPolice.obj-a60b4f8b39d71f0c71ea253d5b54af51.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/tractorPolice.obj"
+dest_files=[ "res://.import/tractorPolice.obj-a60b4f8b39d71f0c71ea253d5b54af51.mesh", "res://.import/tractorPolice.obj-a60b4f8b39d71f0c71ea253d5b54af51.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

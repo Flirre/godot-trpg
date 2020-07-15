@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grapes.obj-c3772b7ea8f88fe6f02b01c56b04fbaa.mesh"
+
+[deps]
+
+files=[ "res://.import/grapes.obj-c3772b7ea8f88fe6f02b01c56b04fbaa.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/grapes.obj"
+dest_files=[ "res://.import/grapes.obj-c3772b7ea8f88fe6f02b01c56b04fbaa.mesh", "res://.import/grapes.obj-c3772b7ea8f88fe6f02b01c56b04fbaa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

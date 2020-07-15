@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerHexagonRoof_exclusive.obj-6d97fe949f3f646318c8ce931f73ea83.mesh"
+
+[deps]
+
+files=[ "res://.import/towerHexagonRoof_exclusive.obj-6d97fe949f3f646318c8ce931f73ea83.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/towerHexagonRoof_exclusive.obj"
+dest_files=[ "res://.import/towerHexagonRoof_exclusive.obj-6d97fe949f3f646318c8ce931f73ea83.mesh", "res://.import/towerHexagonRoof_exclusive.obj-6d97fe949f3f646318c8ce931f73ea83.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

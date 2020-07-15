@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plantSmall1.obj-3c5f5f47c84e91743e24b148ad1e94fb.mesh"
+
+[deps]
+
+files=[ "res://.import/plantSmall1.obj-3c5f5f47c84e91743e24b148ad1e94fb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/plantSmall1.obj"
+dest_files=[ "res://.import/plantSmall1.obj-3c5f5f47c84e91743e24b148ad1e94fb.mesh", "res://.import/plantSmall1.obj-3c5f5f47c84e91743e24b148ad1e94fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

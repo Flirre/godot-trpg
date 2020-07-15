@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lampSquareFloor.obj-dad85cdf1d5941fbd124218bd0d61555.mesh"
+
+[deps]
+
+files=[ "res://.import/lampSquareFloor.obj-dad85cdf1d5941fbd124218bd0d61555.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/lampSquareFloor.obj"
+dest_files=[ "res://.import/lampSquareFloor.obj-dad85cdf1d5941fbd124218bd0d61555.mesh", "res://.import/lampSquareFloor.obj-dad85cdf1d5941fbd124218bd0d61555.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

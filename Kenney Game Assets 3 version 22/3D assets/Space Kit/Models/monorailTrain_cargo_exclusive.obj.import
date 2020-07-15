@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/monorailTrain_cargo_exclusive.obj-f678927c31657288fa0eadd99b76ecd5.mesh"
+
+[deps]
+
+files=[ "res://.import/monorailTrain_cargo_exclusive.obj-f678927c31657288fa0eadd99b76ecd5.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/monorailTrain_cargo_exclusive.obj"
+dest_files=[ "res://.import/monorailTrain_cargo_exclusive.obj-f678927c31657288fa0eadd99b76ecd5.mesh", "res://.import/monorailTrain_cargo_exclusive.obj-f678927c31657288fa0eadd99b76ecd5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grass_forest.obj-f86ae3f44e6fb353e4b38445b0f6d16b.mesh"
+
+[deps]
+
+files=[ "res://.import/grass_forest.obj-f86ae3f44e6fb353e4b38445b0f6d16b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Hexagon Kit/Models/OBJ format/grass_forest.obj"
+dest_files=[ "res://.import/grass_forest.obj-f86ae3f44e6fb353e4b38445b0f6d16b.mesh", "res://.import/grass_forest.obj-f86ae3f44e6fb353e4b38445b0f6d16b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

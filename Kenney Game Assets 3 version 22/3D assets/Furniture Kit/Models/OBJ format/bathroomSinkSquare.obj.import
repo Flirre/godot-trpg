@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bathroomSinkSquare.obj-6ea22e15e5c1060c690406a7a1be692a.mesh"
+
+[deps]
+
+files=[ "res://.import/bathroomSinkSquare.obj-6ea22e15e5c1060c690406a7a1be692a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/bathroomSinkSquare.obj"
+dest_files=[ "res://.import/bathroomSinkSquare.obj-6ea22e15e5c1060c690406a7a1be692a.mesh", "res://.import/bathroomSinkSquare.obj-6ea22e15e5c1060c690406a7a1be692a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

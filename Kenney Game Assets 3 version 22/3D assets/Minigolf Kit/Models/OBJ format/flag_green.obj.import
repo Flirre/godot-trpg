@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flag_green.obj-530ab1dff032b79e85fa4890bc7400c9.mesh"
+
+[deps]
+
+files=[ "res://.import/flag_green.obj-530ab1dff032b79e85fa4890bc7400c9.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/flag_green.obj"
+dest_files=[ "res://.import/flag_green.obj-530ab1dff032b79e85fa4890bc7400c9.mesh", "res://.import/flag_green.obj-530ab1dff032b79e85fa4890bc7400c9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/debrisWood.obj-264cffb0bed234dcff1ac748d67fd675.mesh"
+
+[deps]
+
+files=[ "res://.import/debrisWood.obj-264cffb0bed234dcff1ac748d67fd675.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/debrisWood.obj"
+dest_files=[ "res://.import/debrisWood.obj-264cffb0bed234dcff1ac748d67fd675.mesh", "res://.import/debrisWood.obj-264cffb0bed234dcff1ac748d67fd675.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/toiletSquare.obj-53e091c18c0e0c744b7fa8ad9d140d59.mesh"
+
+[deps]
+
+files=[ "res://.import/toiletSquare.obj-53e091c18c0e0c744b7fa8ad9d140d59.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/toiletSquare.obj"
+dest_files=[ "res://.import/toiletSquare.obj-53e091c18c0e0c744b7fa8ad9d140d59.mesh", "res://.import/toiletSquare.obj-53e091c18c0e0c744b7fa8ad9d140d59.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

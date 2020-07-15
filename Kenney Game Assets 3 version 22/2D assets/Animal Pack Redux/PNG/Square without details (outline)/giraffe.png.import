@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/giraffe.png-977d09b61af1d9761efa06bcb8504cdd.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/2D assets/Animal Pack Redux/PNG/Square without details (outline)/giraffe.png"
+dest_files=[ "res://.import/giraffe.png-977d09b61af1d9761efa06bcb8504cdd.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

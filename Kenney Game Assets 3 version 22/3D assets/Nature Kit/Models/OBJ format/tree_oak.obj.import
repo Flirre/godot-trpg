@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_oak.obj-ea566993921d8408f34a3ed47a4bb751.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_oak.obj-ea566993921d8408f34a3ed47a4bb751.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/tree_oak.obj"
+dest_files=[ "res://.import/tree_oak.obj-ea566993921d8408f34a3ed47a4bb751.mesh", "res://.import/tree_oak.obj-ea566993921d8408f34a3ed47a4bb751.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

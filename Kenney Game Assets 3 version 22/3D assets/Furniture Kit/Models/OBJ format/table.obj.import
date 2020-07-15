@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/table.obj-52b991997c98fbb0a91117b451763a1c.mesh"
+
+[deps]
+
+files=[ "res://.import/table.obj-52b991997c98fbb0a91117b451763a1c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/table.obj"
+dest_files=[ "res://.import/table.obj-52b991997c98fbb0a91117b451763a1c.mesh", "res://.import/table.obj-52b991997c98fbb0a91117b451763a1c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

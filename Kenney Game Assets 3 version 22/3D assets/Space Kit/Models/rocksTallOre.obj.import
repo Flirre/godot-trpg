@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocksTallOre.obj-8cd6510bcf7f09c1de2d6beb241f121c.mesh"
+
+[deps]
+
+files=[ "res://.import/rocksTallOre.obj-8cd6510bcf7f09c1de2d6beb241f121c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/rocksTallOre.obj"
+dest_files=[ "res://.import/rocksTallOre.obj-8cd6510bcf7f09c1de2d6beb241f121c.mesh", "res://.import/rocksTallOre.obj-8cd6510bcf7f09c1de2d6beb241f121c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/flagCheckersSmall.obj-a63252ed76c5e8bf38d1bb8651835367.mesh"
+
+[deps]
+
+files=[ "res://.import/flagCheckersSmall.obj-a63252ed76c5e8bf38d1bb8651835367.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/flagCheckersSmall.obj"
+dest_files=[ "res://.import/flagCheckersSmall.obj-a63252ed76c5e8bf38d1bb8651835367.mesh", "res://.import/flagCheckersSmall.obj-a63252ed76c5e8bf38d1bb8651835367.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/statue_columnDamaged.obj-c0c516053cbe0a7178a732c83c5dc669.mesh"
+
+[deps]
+
+files=[ "res://.import/statue_columnDamaged.obj-c0c516053cbe0a7178a732c83c5dc669.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/statue_columnDamaged.obj"
+dest_files=[ "res://.import/statue_columnDamaged.obj-c0c516053cbe0a7178a732c83c5dc669.mesh", "res://.import/statue_columnDamaged.obj-c0c516053cbe0a7178a732c83c5dc669.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

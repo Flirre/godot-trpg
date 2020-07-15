@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carLuxury.obj-66a1bf7924f5bf270faeb36480d826cc.mesh"
+
+[deps]
+
+files=[ "res://.import/carLuxury.obj-66a1bf7924f5bf270faeb36480d826cc.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carLuxury.obj"
+dest_files=[ "res://.import/carLuxury.obj-66a1bf7924f5bf270faeb36480d826cc.mesh", "res://.import/carLuxury.obj-66a1bf7924f5bf270faeb36480d826cc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

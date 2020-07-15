@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/carPolice.obj-b0d2475c3e0be8702d6feeee32cc40df.mesh"
+
+[deps]
+
+files=[ "res://.import/carPolice.obj-b0d2475c3e0be8702d6feeee32cc40df.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/carPolice.obj"
+dest_files=[ "res://.import/carPolice.obj-b0d2475c3e0be8702d6feeee32cc40df.mesh", "res://.import/carPolice.obj-b0d2475c3e0be8702d6feeee32cc40df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

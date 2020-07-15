@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadRampWall.obj-c72fc3640bc7d90d76c8ff4dcfc17193.mesh"
+
+[deps]
+
+files=[ "res://.import/roadRampWall.obj-c72fc3640bc7d90d76c8ff4dcfc17193.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadRampWall.obj"
+dest_files=[ "res://.import/roadRampWall.obj-c72fc3640bc7d90d76c8ff4dcfc17193.mesh", "res://.import/roadRampWall.obj-c72fc3640bc7d90d76c8ff4dcfc17193.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plant_bushDetailed.obj-99e16a80478f3804c5c8c03e8de83d1a.mesh"
+
+[deps]
+
+files=[ "res://.import/plant_bushDetailed.obj-99e16a80478f3804c5c8c03e8de83d1a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/plant_bushDetailed.obj"
+dest_files=[ "res://.import/plant_bushDetailed.obj-99e16a80478f3804c5c8c03e8de83d1a.mesh", "res://.import/plant_bushDetailed.obj-99e16a80478f3804c5c8c03e8de83d1a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

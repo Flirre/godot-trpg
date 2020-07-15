@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tile_slope.obj-05847c93bc5ec7fa5c481a0f772c0939.mesh"
+
+[deps]
+
+files=[ "res://.import/tile_slope.obj-05847c93bc5ec7fa5c481a0f772c0939.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/tile_slope.obj"
+dest_files=[ "res://.import/tile_slope.obj-05847c93bc5ec7fa5c481a0f772c0939.mesh", "res://.import/tile_slope.obj-05847c93bc5ec7fa5c481a0f772c0939.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

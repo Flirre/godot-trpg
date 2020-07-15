@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/log_stack.obj-6a1564cfe029e45070a0888582f35468.mesh"
+
+[deps]
+
+files=[ "res://.import/log_stack.obj-6a1564cfe029e45070a0888582f35468.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/log_stack.obj"
+dest_files=[ "res://.import/log_stack.obj-6a1564cfe029e45070a0888582f35468.mesh", "res://.import/log_stack.obj-6a1564cfe029e45070a0888582f35468.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

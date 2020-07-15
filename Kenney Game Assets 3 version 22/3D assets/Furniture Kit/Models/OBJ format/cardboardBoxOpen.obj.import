@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cardboardBoxOpen.obj-1e9a97f737bc8d676884e5add524782f.mesh"
+
+[deps]
+
+files=[ "res://.import/cardboardBoxOpen.obj-1e9a97f737bc8d676884e5add524782f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/cardboardBoxOpen.obj"
+dest_files=[ "res://.import/cardboardBoxOpen.obj-1e9a97f737bc8d676884e5add524782f.mesh", "res://.import/cardboardBoxOpen.obj-1e9a97f737bc8d676884e5add524782f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

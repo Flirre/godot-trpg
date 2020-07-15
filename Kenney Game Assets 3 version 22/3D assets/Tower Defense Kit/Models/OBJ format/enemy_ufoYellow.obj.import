@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/enemy_ufoYellow.obj-cc9d8a4d2c99e5cd9b63f5867d9c9098.mesh"
+
+[deps]
+
+files=[ "res://.import/enemy_ufoYellow.obj-cc9d8a4d2c99e5cd9b63f5867d9c9098.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/enemy_ufoYellow.obj"
+dest_files=[ "res://.import/enemy_ufoYellow.obj-cc9d8a4d2c99e5cd9b63f5867d9c9098.mesh", "res://.import/enemy_ufoYellow.obj-cc9d8a4d2c99e5cd9b63f5867d9c9098.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

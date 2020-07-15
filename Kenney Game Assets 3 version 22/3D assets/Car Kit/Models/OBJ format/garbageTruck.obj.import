@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/garbageTruck.obj-3fbeb26e1149e5b9d2d114265c4e5930.mesh"
+
+[deps]
+
+files=[ "res://.import/garbageTruck.obj-3fbeb26e1149e5b9d2d114265c4e5930.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/garbageTruck.obj"
+dest_files=[ "res://.import/garbageTruck.obj-3fbeb26e1149e5b9d2d114265c4e5930.mesh", "res://.import/garbageTruck.obj-3fbeb26e1149e5b9d2d114265c4e5930.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

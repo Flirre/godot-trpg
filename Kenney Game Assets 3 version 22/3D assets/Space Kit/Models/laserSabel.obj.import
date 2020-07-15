@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/laserSabel.obj-7ad804bd85bf04581d095310c5e91ef3.mesh"
+
+[deps]
+
+files=[ "res://.import/laserSabel.obj-7ad804bd85bf04581d095310c5e91ef3.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/laserSabel.obj"
+dest_files=[ "res://.import/laserSabel.obj-7ad804bd85bf04581d095310c5e91ef3.mesh", "res://.import/laserSabel.obj-7ad804bd85bf04581d095310c5e91ef3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

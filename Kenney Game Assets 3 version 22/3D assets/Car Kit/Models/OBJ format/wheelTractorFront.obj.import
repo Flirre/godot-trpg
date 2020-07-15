@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wheelTractorFront.obj-eca18528e17c4be7d314d14d7049465c.mesh"
+
+[deps]
+
+files=[ "res://.import/wheelTractorFront.obj-eca18528e17c4be7d314d14d7049465c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/wheelTractorFront.obj"
+dest_files=[ "res://.import/wheelTractorFront.obj-eca18528e17c4be7d314d14d7049465c.mesh", "res://.import/wheelTractorFront.obj-eca18528e17c4be7d314d14d7049465c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rampSquare.obj-fd6d36ef21b08a0d61f6ed60ef4daada.mesh"
+
+[deps]
+
+files=[ "res://.import/rampSquare.obj-fd6d36ef21b08a0d61f6ed60ef4daada.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/rampSquare.obj"
+dest_files=[ "res://.import/rampSquare.obj-fd6d36ef21b08a0d61f6ed60ef4daada.mesh", "res://.import/rampSquare.obj-fd6d36ef21b08a0d61f6ed60ef4daada.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

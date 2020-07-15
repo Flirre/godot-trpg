@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/consoleCorner.obj-c437e0ee5a7b477c67a1b7789fbb4a70.mesh"
+
+[deps]
+
+files=[ "res://.import/consoleCorner.obj-c437e0ee5a7b477c67a1b7789fbb4a70.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/consoleCorner.obj"
+dest_files=[ "res://.import/consoleCorner.obj-c437e0ee5a7b477c67a1b7789fbb4a70.mesh", "res://.import/consoleCorner.obj-c437e0ee5a7b477c67a1b7789fbb4a70.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

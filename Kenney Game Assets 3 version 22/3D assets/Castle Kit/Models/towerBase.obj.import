@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerBase.obj-be9bb4051654ab1cfaeba3e103eb91fe.mesh"
+
+[deps]
+
+files=[ "res://.import/towerBase.obj-be9bb4051654ab1cfaeba3e103eb91fe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/towerBase.obj"
+dest_files=[ "res://.import/towerBase.obj-be9bb4051654ab1cfaeba3e103eb91fe.mesh", "res://.import/towerBase.obj-be9bb4051654ab1cfaeba3e103eb91fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/loungeDesignSofaCorner.obj-d1f6e149ce0e2aeaaa3e6ca233b1cf23.mesh"
+
+[deps]
+
+files=[ "res://.import/loungeDesignSofaCorner.obj-d1f6e149ce0e2aeaaa3e6ca233b1cf23.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/loungeDesignSofaCorner.obj"
+dest_files=[ "res://.import/loungeDesignSofaCorner.obj-d1f6e149ce0e2aeaaa3e6ca233b1cf23.mesh", "res://.import/loungeDesignSofaCorner.obj-d1f6e149ce0e2aeaaa3e6ca233b1cf23.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

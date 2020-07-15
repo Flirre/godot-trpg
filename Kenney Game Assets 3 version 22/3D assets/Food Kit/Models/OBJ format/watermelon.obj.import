@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/watermelon.obj-d7eb664920895d4a52b2c64a0bf3735f.mesh"
+
+[deps]
+
+files=[ "res://.import/watermelon.obj-d7eb664920895d4a52b2c64a0bf3735f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/watermelon.obj"
+dest_files=[ "res://.import/watermelon.obj-d7eb664920895d4a52b2c64a0bf3735f.mesh", "res://.import/watermelon.obj-d7eb664920895d4a52b2c64a0bf3735f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

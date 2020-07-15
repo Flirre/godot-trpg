@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/mushroom_redGroup.png-6e21014087ec2a978ebfc7b4f73b5c57.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/sprites_side/mushroom_redGroup.png"
+dest_files=[ "res://.import/mushroom_redGroup.png-6e21014087ec2a978ebfc7b4f73b5c57.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0

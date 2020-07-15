@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_riverRocks.obj-bf0e084986c98beb8d541e87c5e3562f.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_riverRocks.obj-bf0e084986c98beb8d541e87c5e3562f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/ground_riverRocks.obj"
+dest_files=[ "res://.import/ground_riverRocks.obj-bf0e084986c98beb8d541e87c5e3562f.mesh", "res://.import/ground_riverRocks.obj-bf0e084986c98beb8d541e87c5e3562f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

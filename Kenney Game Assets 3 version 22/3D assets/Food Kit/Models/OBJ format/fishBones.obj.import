@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fishBones.obj-5a2a81a8b81d2ea15f5e8f7bfd4dbe80.mesh"
+
+[deps]
+
+files=[ "res://.import/fishBones.obj-5a2a81a8b81d2ea15f5e8f7bfd4dbe80.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/fishBones.obj"
+dest_files=[ "res://.import/fishBones.obj-5a2a81a8b81d2ea15f5e8f7bfd4dbe80.mesh", "res://.import/fishBones.obj-5a2a81a8b81d2ea15f5e8f7bfd4dbe80.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

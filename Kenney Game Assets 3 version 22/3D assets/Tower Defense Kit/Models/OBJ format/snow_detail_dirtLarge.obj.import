@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/snow_detail_dirtLarge.obj-7825883a3e3ccf300f0fd67dd7ae4638.mesh"
+
+[deps]
+
+files=[ "res://.import/snow_detail_dirtLarge.obj-7825883a3e3ccf300f0fd67dd7ae4638.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/snow_detail_dirtLarge.obj"
+dest_files=[ "res://.import/snow_detail_dirtLarge.obj-7825883a3e3ccf300f0fd67dd7ae4638.mesh", "res://.import/snow_detail_dirtLarge.obj-7825883a3e3ccf300f0fd67dd7ae4638.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

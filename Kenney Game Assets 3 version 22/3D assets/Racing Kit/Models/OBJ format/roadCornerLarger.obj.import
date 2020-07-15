@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roadCornerLarger.obj-89f62b5a046a88980b9429f902c87689.mesh"
+
+[deps]
+
+files=[ "res://.import/roadCornerLarger.obj-89f62b5a046a88980b9429f902c87689.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/roadCornerLarger.obj"
+dest_files=[ "res://.import/roadCornerLarger.obj-89f62b5a046a88980b9429f902c87689.mesh", "res://.import/roadCornerLarger.obj-89f62b5a046a88980b9429f902c87689.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

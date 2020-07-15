@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tent_smallClosed.obj-9e845a646b9393621f9ec3d84d1ead0c.mesh"
+
+[deps]
+
+files=[ "res://.import/tent_smallClosed.obj-9e845a646b9393621f9ec3d84d1ead0c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/tent_smallClosed.obj"
+dest_files=[ "res://.import/tent_smallClosed.obj-9e845a646b9393621f9ec3d84d1ead0c.mesh", "res://.import/tent_smallClosed.obj-9e845a646b9393621f9ec3d84d1ead0c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

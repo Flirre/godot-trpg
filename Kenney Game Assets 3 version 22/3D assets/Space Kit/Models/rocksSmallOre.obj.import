@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rocksSmallOre.obj-1594ef2953f8f8e9e4e13b4895af0adf.mesh"
+
+[deps]
+
+files=[ "res://.import/rocksSmallOre.obj-1594ef2953f8f8e9e4e13b4895af0adf.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/rocksSmallOre.obj"
+dest_files=[ "res://.import/rocksSmallOre.obj-1594ef2953f8f8e9e4e13b4895af0adf.mesh", "res://.import/rocksSmallOre.obj-1594ef2953f8f8e9e4e13b4895af0adf.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

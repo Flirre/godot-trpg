@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/frappe.obj-61afcb98bbdd07214b71456c0c09f8af.mesh"
+
+[deps]
+
+files=[ "res://.import/frappe.obj-61afcb98bbdd07214b71456c0c09f8af.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/frappe.obj"
+dest_files=[ "res://.import/frappe.obj-61afcb98bbdd07214b71456c0c09f8af.mesh", "res://.import/frappe.obj-61afcb98bbdd07214b71456c0c09f8af.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

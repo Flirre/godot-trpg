@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/taxi.obj-a4f10d2f7a375c10ab744828cbb706de.mesh"
+
+[deps]
+
+files=[ "res://.import/taxi.obj-a4f10d2f7a375c10ab744828cbb706de.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Car Kit/Models/OBJ format/taxi.obj"
+dest_files=[ "res://.import/taxi.obj-a4f10d2f7a375c10ab744828cbb706de.mesh", "res://.import/taxi.obj-a4f10d2f7a375c10ab744828cbb706de.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

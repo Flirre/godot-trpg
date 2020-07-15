@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinetBedDrawerTable.obj-318142cdfd841ec112b952356c4e887f.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinetBedDrawerTable.obj-318142cdfd841ec112b952356c4e887f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/cabinetBedDrawerTable.obj"
+dest_files=[ "res://.import/cabinetBedDrawerTable.obj-318142cdfd841ec112b952356c4e887f.mesh", "res://.import/cabinetBedDrawerTable.obj-318142cdfd841ec112b952356c4e887f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

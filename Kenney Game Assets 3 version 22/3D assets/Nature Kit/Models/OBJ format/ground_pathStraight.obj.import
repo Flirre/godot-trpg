@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ground_pathStraight.obj-91b753731b8d8cf34f4a27104cf1c297.mesh"
+
+[deps]
+
+files=[ "res://.import/ground_pathStraight.obj-91b753731b8d8cf34f4a27104cf1c297.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/ground_pathStraight.obj"
+dest_files=[ "res://.import/ground_pathStraight.obj-91b753731b8d8cf34f4a27104cf1c297.mesh", "res://.import/ground_pathStraight.obj-91b753731b8d8cf34f4a27104cf1c297.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

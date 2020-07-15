@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/speakerSmall.obj-1a15cace7ac1807f643e6671e7bf4ec5.mesh"
+
+[deps]
+
+files=[ "res://.import/speakerSmall.obj-1a15cace7ac1807f643e6671e7bf4ec5.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/speakerSmall.obj"
+dest_files=[ "res://.import/speakerSmall.obj-1a15cace7ac1807f643e6671e7bf4ec5.mesh", "res://.import/speakerSmall.obj-1a15cace7ac1807f643e6671e7bf4ec5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

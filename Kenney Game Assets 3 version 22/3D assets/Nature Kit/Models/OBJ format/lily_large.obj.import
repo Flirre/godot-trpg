@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lily_large.obj-01f8e6166b3b3c27794394b4d3644497.mesh"
+
+[deps]
+
+files=[ "res://.import/lily_large.obj-01f8e6166b3b3c27794394b4d3644497.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/lily_large.obj"
+dest_files=[ "res://.import/lily_large.obj-01f8e6166b3b3c27794394b4d3644497.mesh", "res://.import/lily_large.obj-01f8e6166b3b3c27794394b4d3644497.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

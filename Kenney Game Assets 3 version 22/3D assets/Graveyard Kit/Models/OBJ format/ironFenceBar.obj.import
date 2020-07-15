@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ironFenceBar.obj-0ceb53b2fafebd8c8c54c07499e86895.mesh"
+
+[deps]
+
+files=[ "res://.import/ironFenceBar.obj-0ceb53b2fafebd8c8c54c07499e86895.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/ironFenceBar.obj"
+dest_files=[ "res://.import/ironFenceBar.obj-0ceb53b2fafebd8c8c54c07499e86895.mesh", "res://.import/ironFenceBar.obj-0ceb53b2fafebd8c8c54c07499e86895.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

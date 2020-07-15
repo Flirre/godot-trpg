@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatRaw.obj-280cb39c9307d127a47f9c46239f79bb.mesh"
+
+[deps]
+
+files=[ "res://.import/meatRaw.obj-280cb39c9307d127a47f9c46239f79bb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/meatRaw.obj"
+dest_files=[ "res://.import/meatRaw.obj-280cb39c9307d127a47f9c46239f79bb.mesh", "res://.import/meatRaw.obj-280cb39c9307d127a47f9c46239f79bb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatCooked.obj-507506915c7e82eda07391512337b978.mesh"
+
+[deps]
+
+files=[ "res://.import/meatCooked.obj-507506915c7e82eda07391512337b978.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/meatCooked.obj"
+dest_files=[ "res://.import/meatCooked.obj-507506915c7e82eda07391512337b978.mesh", "res://.import/meatCooked.obj-507506915c7e82eda07391512337b978.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

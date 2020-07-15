@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquareTopRoof.obj-274e45f190bd2e9cf86de24eb9da7540.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquareTopRoof.obj-274e45f190bd2e9cf86de24eb9da7540.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/towerSquareTopRoof.obj"
+dest_files=[ "res://.import/towerSquareTopRoof.obj-274e45f190bd2e9cf86de24eb9da7540.mesh", "res://.import/towerSquareTopRoof.obj-274e45f190bd2e9cf86de24eb9da7540.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

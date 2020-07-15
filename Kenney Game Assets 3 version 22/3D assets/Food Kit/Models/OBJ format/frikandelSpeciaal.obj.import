@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/frikandelSpeciaal.obj-c88e5fcc0d36fb99044ba8ca2946b3a9.mesh"
+
+[deps]
+
+files=[ "res://.import/frikandelSpeciaal.obj-c88e5fcc0d36fb99044ba8ca2946b3a9.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/frikandelSpeciaal.obj"
+dest_files=[ "res://.import/frikandelSpeciaal.obj-c88e5fcc0d36fb99044ba8ca2946b3a9.mesh", "res://.import/frikandelSpeciaal.obj-c88e5fcc0d36fb99044ba8ca2946b3a9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/coconutHalf.obj-40dbdc5c5c7777d08451481a5e240128.mesh"
+
+[deps]
+
+files=[ "res://.import/coconutHalf.obj-40dbdc5c5c7777d08451481a5e240128.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/coconutHalf.obj"
+dest_files=[ "res://.import/coconutHalf.obj-40dbdc5c5c7777d08451481a5e240128.mesh", "res://.import/coconutHalf.obj-40dbdc5c5c7777d08451481a5e240128.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

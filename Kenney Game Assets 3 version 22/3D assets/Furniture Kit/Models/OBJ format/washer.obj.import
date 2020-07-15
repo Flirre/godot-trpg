@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/washer.obj-531a76bd38e91e52e5a74896fdb7955a.mesh"
+
+[deps]
+
+files=[ "res://.import/washer.obj-531a76bd38e91e52e5a74896fdb7955a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/washer.obj"
+dest_files=[ "res://.import/washer.obj-531a76bd38e91e52e5a74896fdb7955a.mesh", "res://.import/washer.obj-531a76bd38e91e52e5a74896fdb7955a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

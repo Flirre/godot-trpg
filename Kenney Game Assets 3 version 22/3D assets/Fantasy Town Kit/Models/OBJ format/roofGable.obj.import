@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/roofGable.obj-6439275b2881895b8ec6de7c1e3ec721.mesh"
+
+[deps]
+
+files=[ "res://.import/roofGable.obj-6439275b2881895b8ec6de7c1e3ec721.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/roofGable.obj"
+dest_files=[ "res://.import/roofGable.obj-6439275b2881895b8ec6de7c1e3ec721.mesh", "res://.import/roofGable.obj-6439275b2881895b8ec6de7c1e3ec721.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallWindowRound.obj-3ef7a22e5197c3f764c1b59639e0f573.mesh"
+
+[deps]
+
+files=[ "res://.import/wallWindowRound.obj-3ef7a22e5197c3f764c1b59639e0f573.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallWindowRound.obj"
+dest_files=[ "res://.import/wallWindowRound.obj-3ef7a22e5197c3f764c1b59639e0f573.mesh", "res://.import/wallWindowRound.obj-3ef7a22e5197c3f764c1b59639e0f573.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

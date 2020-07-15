@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/coffin.obj-07670df7b253521f7de44e8305457a84.mesh"
+
+[deps]
+
+files=[ "res://.import/coffin.obj-07670df7b253521f7de44e8305457a84.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/coffin.obj"
+dest_files=[ "res://.import/coffin.obj-07670df7b253521f7de44e8305457a84.mesh", "res://.import/coffin.obj-07670df7b253521f7de44e8305457a84.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

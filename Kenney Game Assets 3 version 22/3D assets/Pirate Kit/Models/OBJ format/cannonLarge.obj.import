@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cannonLarge.obj-1357947cc1b3b42cb34b94c2f1451eca.mesh"
+
+[deps]
+
+files=[ "res://.import/cannonLarge.obj-1357947cc1b3b42cb34b94c2f1451eca.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/cannonLarge.obj"
+dest_files=[ "res://.import/cannonLarge.obj-1357947cc1b3b42cb34b94c2f1451eca.mesh", "res://.import/cannonLarge.obj-1357947cc1b3b42cb34b94c2f1451eca.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

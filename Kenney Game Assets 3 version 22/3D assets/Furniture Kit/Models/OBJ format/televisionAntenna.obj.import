@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/televisionAntenna.obj-7973f9bb5f9673ac3842ad3ff20cfdd8.mesh"
+
+[deps]
+
+files=[ "res://.import/televisionAntenna.obj-7973f9bb5f9673ac3842ad3ff20cfdd8.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/televisionAntenna.obj"
+dest_files=[ "res://.import/televisionAntenna.obj-7973f9bb5f9673ac3842ad3ff20cfdd8.mesh", "res://.import/televisionAntenna.obj-7973f9bb5f9673ac3842ad3ff20cfdd8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

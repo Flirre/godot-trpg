@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tableCrossCloth.obj-cdf647205f36d32c8a874474573491df.mesh"
+
+[deps]
+
+files=[ "res://.import/tableCrossCloth.obj-cdf647205f36d32c8a874474573491df.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/tableCrossCloth.obj"
+dest_files=[ "res://.import/tableCrossCloth.obj-cdf647205f36d32c8a874474573491df.mesh", "res://.import/tableCrossCloth.obj-cdf647205f36d32c8a874474573491df.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

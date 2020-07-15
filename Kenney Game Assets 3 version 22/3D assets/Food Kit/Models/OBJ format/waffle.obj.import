@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/waffle.obj-b3069a298517cc4d019f0a5477339cf8.mesh"
+
+[deps]
+
+files=[ "res://.import/waffle.obj-b3069a298517cc4d019f0a5477339cf8.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/waffle.obj"
+dest_files=[ "res://.import/waffle.obj-b3069a298517cc4d019f0a5477339cf8.mesh", "res://.import/waffle.obj-b3069a298517cc4d019f0a5477339cf8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

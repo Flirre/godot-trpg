@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/detail_rocks.obj-63fbb9c8c4c9f3d0fab2f4c8a24d966a.mesh"
+
+[deps]
+
+files=[ "res://.import/detail_rocks.obj-63fbb9c8c4c9f3d0fab2f4c8a24d966a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/detail_rocks.obj"
+dest_files=[ "res://.import/detail_rocks.obj-63fbb9c8c4c9f3d0fab2f4c8a24d966a.mesh", "res://.import/detail_rocks.obj-63fbb9c8c4c9f3d0fab2f4c8a24d966a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

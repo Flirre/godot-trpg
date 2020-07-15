@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/digger.obj-656c923bee0b2f8169613e1ac193c31b.mesh"
+
+[deps]
+
+files=[ "res://.import/digger.obj-656c923bee0b2f8169613e1ac193c31b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/digger.obj"
+dest_files=[ "res://.import/digger.obj-656c923bee0b2f8169613e1ac193c31b.mesh", "res://.import/digger.obj-656c923bee0b2f8169613e1ac193c31b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

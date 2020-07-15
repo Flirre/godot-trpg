@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/ironFenceDamaged.obj-eb3ba4edaeb1a7a626f23ceb05a39cc2.mesh"
+
+[deps]
+
+files=[ "res://.import/ironFenceDamaged.obj-eb3ba4edaeb1a7a626f23ceb05a39cc2.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/ironFenceDamaged.obj"
+dest_files=[ "res://.import/ironFenceDamaged.obj-eb3ba4edaeb1a7a626f23ceb05a39cc2.mesh", "res://.import/ironFenceDamaged.obj-eb3ba4edaeb1a7a626f23ceb05a39cc2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

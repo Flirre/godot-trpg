@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/skewerVegetables.obj-10cb6d851ff31447e17b84f60e015f48.mesh"
+
+[deps]
+
+files=[ "res://.import/skewerVegetables.obj-10cb6d851ff31447e17b84f60e015f48.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/skewerVegetables.obj"
+dest_files=[ "res://.import/skewerVegetables.obj-10cb6d851ff31447e17b84f60e015f48.mesh", "res://.import/skewerVegetables.obj-10cb6d851ff31447e17b84f60e015f48.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

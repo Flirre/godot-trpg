@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/gravestoneDecorative.obj-9f8632808ee021832d4dfc6b6862e309.mesh"
+
+[deps]
+
+files=[ "res://.import/gravestoneDecorative.obj-9f8632808ee021832d4dfc6b6862e309.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/gravestoneDecorative.obj"
+dest_files=[ "res://.import/gravestoneDecorative.obj-9f8632808ee021832d4dfc6b6862e309.mesh", "res://.import/gravestoneDecorative.obj-9f8632808ee021832d4dfc6b6862e309.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

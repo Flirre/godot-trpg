@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/road.obj-95c90d9ab835c2db2af74c00458c4f70.mesh"
+
+[deps]
+
+files=[ "res://.import/road.obj-95c90d9ab835c2db2af74c00458c4f70.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/road.obj"
+dest_files=[ "res://.import/road.obj-95c90d9ab835c2db2af74c00458c4f70.mesh", "res://.import/road.obj-95c90d9ab835c2db2af74c00458c4f70.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

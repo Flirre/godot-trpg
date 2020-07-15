@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/splitT.obj-c650a47e4c310c7e69f4c2e2cdc1f628.mesh"
+
+[deps]
+
+files=[ "res://.import/splitT.obj-c650a47e4c310c7e69f4c2e2cdc1f628.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/splitT.obj"
+dest_files=[ "res://.import/splitT.obj-c650a47e4c310c7e69f4c2e2cdc1f628.mesh", "res://.import/splitT.obj-c650a47e4c310c7e69f4c2e2cdc1f628.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/weapon_cannon.obj-cc6f4afc47ff4a4f01c3d1dd82efe76c.mesh"
+
+[deps]
+
+files=[ "res://.import/weapon_cannon.obj-cc6f4afc47ff4a4f01c3d1dd82efe76c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/weapon_cannon.obj"
+dest_files=[ "res://.import/weapon_cannon.obj-cc6f4afc47ff4a4f01c3d1dd82efe76c.mesh", "res://.import/weapon_cannon.obj-cc6f4afc47ff4a4f01c3d1dd82efe76c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

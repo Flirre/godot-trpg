@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/spaceCraftStand.obj-e53f771ff7d762f88a055a435fb5d57a.mesh"
+
+[deps]
+
+files=[ "res://.import/spaceCraftStand.obj-e53f771ff7d762f88a055a435fb5d57a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/spaceCraftStand.obj"
+dest_files=[ "res://.import/spaceCraftStand.obj-e53f771ff7d762f88a055a435fb5d57a.mesh", "res://.import/spaceCraftStand.obj-e53f771ff7d762f88a055a435fb5d57a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/grandStand.obj-e34fc37964e061542f2e136443ead04f.mesh"
+
+[deps]
+
+files=[ "res://.import/grandStand.obj-e34fc37964e061542f2e136443ead04f.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Racing Kit/Models/OBJ format/grandStand.obj"
+dest_files=[ "res://.import/grandStand.obj-e34fc37964e061542f2e136443ead04f.mesh", "res://.import/grandStand.obj-e34fc37964e061542f2e136443ead04f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

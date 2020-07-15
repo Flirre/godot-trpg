@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crossWood.obj-5491a0b9bce08fb00266fe718b9a5a99.mesh"
+
+[deps]
+
+files=[ "res://.import/crossWood.obj-5491a0b9bce08fb00266fe718b9a5a99.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/crossWood.obj"
+dest_files=[ "res://.import/crossWood.obj-5491a0b9bce08fb00266fe718b9a5a99.mesh", "res://.import/crossWood.obj-5491a0b9bce08fb00266fe718b9a5a99.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

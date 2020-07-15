@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bottleLarge.obj-723c7aa8ffa7c3975a9c6667fe77e5e7.mesh"
+
+[deps]
+
+files=[ "res://.import/bottleLarge.obj-723c7aa8ffa7c3975a9c6667fe77e5e7.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Pirate Kit/Models/OBJ format/bottleLarge.obj"
+dest_files=[ "res://.import/bottleLarge.obj-723c7aa8ffa7c3975a9c6667fe77e5e7.mesh", "res://.import/bottleLarge.obj-723c7aa8ffa7c3975a9c6667fe77e5e7.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

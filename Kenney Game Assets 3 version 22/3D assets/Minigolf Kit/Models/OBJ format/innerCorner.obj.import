@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/innerCorner.obj-3e4e9c35d2e34e24f34c1f33a4ba10fb.mesh"
+
+[deps]
+
+files=[ "res://.import/innerCorner.obj-3e4e9c35d2e34e24f34c1f33a4ba10fb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/innerCorner.obj"
+dest_files=[ "res://.import/innerCorner.obj-3e4e9c35d2e34e24f34c1f33a4ba10fb.mesh", "res://.import/innerCorner.obj-3e4e9c35d2e34e24f34c1f33a4ba10fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

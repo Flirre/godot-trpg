@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/building_dock.obj-2667f8ea8d2460b634441393f6d9ec4b.mesh"
+
+[deps]
+
+files=[ "res://.import/building_dock.obj-2667f8ea8d2460b634441393f6d9ec4b.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Hexagon Kit/Models/OBJ format/building_dock.obj"
+dest_files=[ "res://.import/building_dock.obj-2667f8ea8d2460b634441393f6d9ec4b.mesh", "res://.import/building_dock.obj-2667f8ea8d2460b634441393f6d9ec4b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

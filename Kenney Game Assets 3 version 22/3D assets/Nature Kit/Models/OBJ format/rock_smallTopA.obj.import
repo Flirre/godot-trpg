@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/rock_smallTopA.obj-a87c6b6e50e091747f5705fb84c08fbd.mesh"
+
+[deps]
+
+files=[ "res://.import/rock_smallTopA.obj-a87c6b6e50e091747f5705fb84c08fbd.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/rock_smallTopA.obj"
+dest_files=[ "res://.import/rock_smallTopA.obj-a87c6b6e50e091747f5705fb84c08fbd.mesh", "res://.import/rock_smallTopA.obj-a87c6b6e50e091747f5705fb84c08fbd.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

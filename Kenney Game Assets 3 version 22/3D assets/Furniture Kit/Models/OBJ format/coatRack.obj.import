@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/coatRack.obj-83233ccf2a374d00ece4b3d453059444.mesh"
+
+[deps]
+
+files=[ "res://.import/coatRack.obj-83233ccf2a374d00ece4b3d453059444.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/coatRack.obj"
+dest_files=[ "res://.import/coatRack.obj-83233ccf2a374d00ece4b3d453059444.mesh", "res://.import/coatRack.obj-83233ccf2a374d00ece4b3d453059444.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

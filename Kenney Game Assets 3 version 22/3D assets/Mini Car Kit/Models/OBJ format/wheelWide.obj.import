@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wheelWide.obj-f35a3dbdd944d2e64c4ab17ceae4d8fe.mesh"
+
+[deps]
+
+files=[ "res://.import/wheelWide.obj-f35a3dbdd944d2e64c4ab17ceae4d8fe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Mini Car Kit/Models/OBJ format/wheelWide.obj"
+dest_files=[ "res://.import/wheelWide.obj-f35a3dbdd944d2e64c4ab17ceae4d8fe.mesh", "res://.import/wheelWide.obj-f35a3dbdd944d2e64c4ab17ceae4d8fe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

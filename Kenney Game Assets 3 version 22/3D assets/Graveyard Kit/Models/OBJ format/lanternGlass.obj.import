@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lanternGlass.obj-0104ef5800dbfa9bfd006479c52b3ba9.mesh"
+
+[deps]
+
+files=[ "res://.import/lanternGlass.obj-0104ef5800dbfa9bfd006479c52b3ba9.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/lanternGlass.obj"
+dest_files=[ "res://.import/lanternGlass.obj-0104ef5800dbfa9bfd006479c52b3ba9.mesh", "res://.import/lanternGlass.obj-0104ef5800dbfa9bfd006479c52b3ba9.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

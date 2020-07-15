@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lightpostDouble.obj-14d8a63841f6a39c5958ad2e783a7dba.mesh"
+
+[deps]
+
+files=[ "res://.import/lightpostDouble.obj-14d8a63841f6a39c5958ad2e783a7dba.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/lightpostDouble.obj"
+dest_files=[ "res://.import/lightpostDouble.obj-14d8a63841f6a39c5958ad2e783a7dba.mesh", "res://.import/lightpostDouble.obj-14d8a63841f6a39c5958ad2e783a7dba.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

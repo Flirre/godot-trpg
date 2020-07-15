@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tile_endRound.obj-dbccb3ecc4f174a2c657c320f3e44063.mesh"
+
+[deps]
+
+files=[ "res://.import/tile_endRound.obj-dbccb3ecc4f174a2c657c320f3e44063.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Tower Defense Kit/Models/OBJ format/tile_endRound.obj"
+dest_files=[ "res://.import/tile_endRound.obj-dbccb3ecc4f174a2c657c320f3e44063.mesh", "res://.import/tile_endRound.obj-dbccb3ecc4f174a2c657c320f3e44063.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

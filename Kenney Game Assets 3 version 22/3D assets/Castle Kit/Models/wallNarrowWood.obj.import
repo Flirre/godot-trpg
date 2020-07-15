@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallNarrowWood.obj-4d6d0b2e45051e3a3c19613cd347e59a.mesh"
+
+[deps]
+
+files=[ "res://.import/wallNarrowWood.obj-4d6d0b2e45051e3a3c19613cd347e59a.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/wallNarrowWood.obj"
+dest_files=[ "res://.import/wallNarrowWood.obj-4d6d0b2e45051e3a3c19613cd347e59a.mesh", "res://.import/wallNarrowWood.obj-4d6d0b2e45051e3a3c19613cd347e59a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

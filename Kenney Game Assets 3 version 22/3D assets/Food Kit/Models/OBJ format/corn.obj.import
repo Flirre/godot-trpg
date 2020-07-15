@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/corn.obj-ca858c1eb2f2db9ca19ed0823918d445.mesh"
+
+[deps]
+
+files=[ "res://.import/corn.obj-ca858c1eb2f2db9ca19ed0823918d445.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/corn.obj"
+dest_files=[ "res://.import/corn.obj-ca858c1eb2f2db9ca19ed0823918d445.mesh", "res://.import/corn.obj-ca858c1eb2f2db9ca19ed0823918d445.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

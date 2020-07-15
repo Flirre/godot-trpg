@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pipeStraight.obj-09381d72fb21603cc30e4631c68440ef.mesh"
+
+[deps]
+
+files=[ "res://.import/pipeStraight.obj-09381d72fb21603cc30e4631c68440ef.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/pipeStraight.obj"
+dest_files=[ "res://.import/pipeStraight.obj-09381d72fb21603cc30e4631c68440ef.mesh", "res://.import/pipeStraight.obj-09381d72fb21603cc30e4631c68440ef.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

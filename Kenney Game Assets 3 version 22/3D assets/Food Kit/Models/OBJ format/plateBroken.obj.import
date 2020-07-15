@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plateBroken.obj-6ac0b77910ccaf1495174345ff9b3668.mesh"
+
+[deps]
+
+files=[ "res://.import/plateBroken.obj-6ac0b77910ccaf1495174345ff9b3668.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/plateBroken.obj"
+dest_files=[ "res://.import/plateBroken.obj-6ac0b77910ccaf1495174345ff9b3668.mesh", "res://.import/plateBroken.obj-6ac0b77910ccaf1495174345ff9b3668.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

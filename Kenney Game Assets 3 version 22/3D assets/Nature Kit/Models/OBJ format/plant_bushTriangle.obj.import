@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/plant_bushTriangle.obj-3c6a599e24b8dbf8d60a7fbcf4e37b50.mesh"
+
+[deps]
+
+files=[ "res://.import/plant_bushTriangle.obj-3c6a599e24b8dbf8d60a7fbcf4e37b50.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/plant_bushTriangle.obj"
+dest_files=[ "res://.import/plant_bushTriangle.obj-3c6a599e24b8dbf8d60a7fbcf4e37b50.mesh", "res://.import/plant_bushTriangle.obj-3c6a599e24b8dbf8d60a7fbcf4e37b50.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

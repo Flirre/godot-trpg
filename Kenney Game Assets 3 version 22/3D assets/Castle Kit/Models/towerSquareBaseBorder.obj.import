@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSquareBaseBorder.obj-0836842aee7d7d940b196a73a8c8ca72.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSquareBaseBorder.obj-0836842aee7d7d940b196a73a8c8ca72.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/towerSquareBaseBorder.obj"
+dest_files=[ "res://.import/towerSquareBaseBorder.obj-0836842aee7d7d940b196a73a8c8ca72.mesh", "res://.import/towerSquareBaseBorder.obj-0836842aee7d7d940b196a73a8c8ca72.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

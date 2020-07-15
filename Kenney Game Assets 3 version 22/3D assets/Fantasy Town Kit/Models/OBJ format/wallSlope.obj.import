@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/wallSlope.obj-985d5cad02a20e9142ed3657abf3c640.mesh"
+
+[deps]
+
+files=[ "res://.import/wallSlope.obj-985d5cad02a20e9142ed3657abf3c640.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Fantasy Town Kit/Models/OBJ format/wallSlope.obj"
+dest_files=[ "res://.import/wallSlope.obj-985d5cad02a20e9142ed3657abf3c640.mesh", "res://.import/wallSlope.obj-985d5cad02a20e9142ed3657abf3c640.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

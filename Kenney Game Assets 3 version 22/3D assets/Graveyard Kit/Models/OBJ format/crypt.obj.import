@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/crypt.obj-6b45b0e1c15e6ab36d987af6e53717aa.mesh"
+
+[deps]
+
+files=[ "res://.import/crypt.obj-6b45b0e1c15e6ab36d987af6e53717aa.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/crypt.obj"
+dest_files=[ "res://.import/crypt.obj-6b45b0e1c15e6ab36d987af6e53717aa.mesh", "res://.import/crypt.obj-6b45b0e1c15e6ab36d987af6e53717aa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

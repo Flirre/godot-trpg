@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/fenceGate.obj-ea4f78210d98e8fd9d37fb2a352422f3.mesh"
+
+[deps]
+
+files=[ "res://.import/fenceGate.obj-ea4f78210d98e8fd9d37fb2a352422f3.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Graveyard Kit/Models/OBJ format/fenceGate.obj"
+dest_files=[ "res://.import/fenceGate.obj-ea4f78210d98e8fd9d37fb2a352422f3.mesh", "res://.import/fenceGate.obj-ea4f78210d98e8fd9d37fb2a352422f3.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

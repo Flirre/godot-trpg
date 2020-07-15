@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/glass.obj-89ee6f697298f5b81509181122715dfa.mesh"
+
+[deps]
+
+files=[ "res://.import/glass.obj-89ee6f697298f5b81509181122715dfa.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/glass.obj"
+dest_files=[ "res://.import/glass.obj-89ee6f697298f5b81509181122715dfa.mesh", "res://.import/glass.obj-89ee6f697298f5b81509181122715dfa.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

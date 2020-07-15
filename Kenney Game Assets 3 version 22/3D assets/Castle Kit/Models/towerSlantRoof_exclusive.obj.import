@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/towerSlantRoof_exclusive.obj-a1e59ab3d66f73a848bea80eaba63eea.mesh"
+
+[deps]
+
+files=[ "res://.import/towerSlantRoof_exclusive.obj-a1e59ab3d66f73a848bea80eaba63eea.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Castle Kit/Models/towerSlantRoof_exclusive.obj"
+dest_files=[ "res://.import/towerSlantRoof_exclusive.obj-a1e59ab3d66f73a848bea80eaba63eea.mesh", "res://.import/towerSlantRoof_exclusive.obj-a1e59ab3d66f73a848bea80eaba63eea.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

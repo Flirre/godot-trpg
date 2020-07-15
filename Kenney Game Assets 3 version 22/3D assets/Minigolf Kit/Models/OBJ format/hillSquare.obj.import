@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/hillSquare.obj-552b3c9f18d66a6b61ba6d529a387dbe.mesh"
+
+[deps]
+
+files=[ "res://.import/hillSquare.obj-552b3c9f18d66a6b61ba6d529a387dbe.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Minigolf Kit/Models/OBJ format/hillSquare.obj"
+dest_files=[ "res://.import/hillSquare.obj-552b3c9f18d66a6b61ba6d529a387dbe.mesh", "res://.import/hillSquare.obj-552b3c9f18d66a6b61ba6d529a387dbe.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

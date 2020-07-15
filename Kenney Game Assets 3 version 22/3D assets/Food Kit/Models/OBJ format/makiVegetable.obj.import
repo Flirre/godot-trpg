@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/makiVegetable.obj-6be4a12d0315d90ec6c1b53c08aa5b85.mesh"
+
+[deps]
+
+files=[ "res://.import/makiVegetable.obj-6be4a12d0315d90ec6c1b53c08aa5b85.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/makiVegetable.obj"
+dest_files=[ "res://.import/makiVegetable.obj-6be4a12d0315d90ec6c1b53c08aa5b85.mesh", "res://.import/makiVegetable.obj-6be4a12d0315d90ec6c1b53c08aa5b85.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

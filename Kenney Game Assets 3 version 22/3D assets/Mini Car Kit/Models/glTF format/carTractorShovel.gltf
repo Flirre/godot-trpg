@@ -1,0 +1,759 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC3",
+      "max": [
+        0.0,
+        0.49500000476837158,
+        0.96000003814697266
+      ],
+      "min": [
+        -0.47499996423721313,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 500,
+      "type": "VEC2",
+      "max": [
+        37.7952766418457,
+        31.607572555541992
+      ],
+      "min": [
+        -37.7952766418457,
+        -36.7952766418457
+      ]
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5121,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        7.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5121,
+      "count": 384,
+      "type": "SCALAR",
+      "max": [
+        175.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5123,
+      "count": 618,
+      "type": "SCALAR",
+      "max": [
+        487.0
+      ],
+      "min": [
+        20.0
+      ]
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5123,
+      "count": 42,
+      "type": "SCALAR",
+      "max": [
+        491.0
+      ],
+      "min": [
+        21.0
+      ]
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5121,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        175.0
+      ],
+      "min": [
+        162.0
+      ]
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5123,
+      "count": 12,
+      "type": "SCALAR",
+      "max": [
+        499.0
+      ],
+      "min": [
+        492.0
+      ]
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 454,
+      "type": "VEC3",
+      "max": [
+        0.18239998817443848,
+        0.056999996304512024,
+        0.056999996304512024
+      ],
+      "min": [
+        -0.48739999532699585,
+        -0.33629998564720154,
+        -0.38034313917160034
+      ]
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 454,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 454,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 454,
+      "type": "VEC2",
+      "max": [
+        19.188976287841797,
+        18.058551788330078
+      ],
+      "min": [
+        -19.188976287841797,
+        -9.0721426010131836
+      ]
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5123,
+      "count": 900,
+      "type": "SCALAR",
+      "max": [
+        453.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC3",
+      "max": [
+        0.10000000149011612,
+        0.14000000059604645,
+        0.14000000059604645
+      ],
+      "min": [
+        -1.8047785270195561E-16,
+        -0.14000000059604645,
+        -0.14000000059604645
+      ]
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC4",
+      "max": [
+        1.0,
+        0.081901460886001587,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.081901460886001587,
+        -1.0,
+        1.0
+      ]
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 384,
+      "type": "VEC2",
+      "max": [
+        5.5118112564086914,
+        6.5118112564086914
+      ],
+      "min": [
+        -5.5118112564086914,
+        -4.5118112564086914
+      ]
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5123,
+      "count": 498,
+      "type": "SCALAR",
+      "max": [
+        263.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5123,
+      "count": 210,
+      "type": "SCALAR",
+      "max": [
+        383.0
+      ],
+      "min": [
+        264.0
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "carTractorShovel.bin",
+      "byteLength": 69192
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 6000,
+      "byteLength": 6000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 12000,
+      "byteLength": 8000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 20000,
+      "byteLength": 4000
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24000,
+      "byteLength": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24012,
+      "byteLength": 384
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 24396,
+      "byteLength": 1236
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25632,
+      "byteLength": 84
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25716,
+      "byteLength": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25728,
+      "byteLength": 24
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 25752,
+      "byteLength": 5448
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 31200,
+      "byteLength": 5448
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 36648,
+      "byteLength": 7264
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 43912,
+      "byteLength": 3632
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 47544,
+      "byteLength": 1800
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 49344,
+      "byteLength": 4608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 53952,
+      "byteLength": 4608
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 58560,
+      "byteLength": 6144
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 64704,
+      "byteLength": 3072
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 67776,
+      "byteLength": 996
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 68772,
+      "byteLength": 420
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.349019617,
+          0.227450982,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "backLight"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9098039,
+          0.333333343,
+          0.3254902,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "paintRed"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3764706,
+          0.3764706,
+          0.3764706,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "plastic"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.298039228,
+          0.3764706,
+          0.466666669,
+          1.0
+        ],
+        "metallicFactor": 0.5,
+        "roughnessFactor": 0.5
+      },
+      "name": "glass"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.956862748,
+          1.0,
+          0.819607854,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "frontLight"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.827451,
+          0.827451,
+          0.827451,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "wheelCover"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.3764706,
+          0.3764706,
+          0.3764706,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.5
+      },
+      "name": "Gray6"
+    },
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.411764681,
+          0.411764681,
+          0.411764681,
+          1.0
+        ],
+        "metallicFactor": 0.5
+      },
+      "name": "carTire"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 5,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 6,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 7,
+          "material": 3
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 8,
+          "material": 4
+        },
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 9,
+          "material": 5
+        }
+      ],
+      "name": "body 11"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 6
+        }
+      ],
+      "name": "shovel"
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 7
+        },
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 20,
+          "material": 5
+        }
+      ],
+      "name": "wheelBackLeft 11"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "translation": [
+        -0.8104321,
+        0.122549921,
+        0.5560409
+      ],
+      "name": "carTractorShovel_8angles"
+    },
+    {
+      "mesh": 0,
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        0.474999964,
+        0.13,
+        -1.18
+      ],
+      "name": "body 11"
+    },
+    {
+      "mesh": 1,
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        0.305,
+        0.526,
+        -1.0
+      ],
+      "name": "shovel"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        4.32764935E-13
+      ],
+      "scale": [
+        2.0,
+        2.4,
+        2.4
+      ],
+      "translation": [
+        -0.355,
+        0.09090015,
+        0.179999992
+      ],
+      "name": "wheelBackLeft 11"
+    },
+    {
+      "mesh": 2,
+      "scale": [
+        2.0,
+        2.4,
+        2.4
+      ],
+      "translation": [
+        0.355,
+        0.100304842,
+        0.179999992
+      ],
+      "name": "wheelBackRight 11"
+    },
+    {
+      "mesh": 2,
+      "rotation": [
+        0.0,
+        -1.0,
+        0.0,
+        4.32764935E-13
+      ],
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        -0.355,
+        0.04,
+        -0.825000048
+      ],
+      "name": "wheelFrontLeft 11"
+    },
+    {
+      "mesh": 2,
+      "scale": [
+        2.0,
+        2.0,
+        2.0
+      ],
+      "translation": [
+        0.355,
+        0.04,
+        -0.825000048
+      ],
+      "name": "wheelFrontRight 11"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "name": "carTractorShovel"
+    }
+  ]
+}

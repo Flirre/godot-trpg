@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/donutSprinkles.obj-b4c97c80b2a477715c94650ca7efb482.mesh"
+
+[deps]
+
+files=[ "res://.import/donutSprinkles.obj-b4c97c80b2a477715c94650ca7efb482.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/donutSprinkles.obj"
+dest_files=[ "res://.import/donutSprinkles.obj-b4c97c80b2a477715c94650ca7efb482.mesh", "res://.import/donutSprinkles.obj-b4c97c80b2a477715c94650ca7efb482.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

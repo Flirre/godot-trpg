@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabbage.obj-04bad699aabd0f1bcd801dc8bfb6a2be.mesh"
+
+[deps]
+
+files=[ "res://.import/cabbage.obj-04bad699aabd0f1bcd801dc8bfb6a2be.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Food Kit/Models/OBJ format/cabbage.obj"
+dest_files=[ "res://.import/cabbage.obj-04bad699aabd0f1bcd801dc8bfb6a2be.mesh", "res://.import/cabbage.obj-04bad699aabd0f1bcd801dc8bfb6a2be.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

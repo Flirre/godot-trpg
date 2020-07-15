@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabinetBed.obj-15a2c41e68dc78c899646bbb96e25816.mesh"
+
+[deps]
+
+files=[ "res://.import/cabinetBed.obj-15a2c41e68dc78c899646bbb96e25816.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Furniture Kit/Models/OBJ format/cabinetBed.obj"
+dest_files=[ "res://.import/cabinetBed.obj-15a2c41e68dc78c899646bbb96e25816.mesh", "res://.import/cabinetBed.obj-15a2c41e68dc78c899646bbb96e25816.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

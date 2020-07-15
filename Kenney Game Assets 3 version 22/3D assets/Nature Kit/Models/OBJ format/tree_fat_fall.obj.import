@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tree_fat_fall.obj-0571c68a1ea707ed8b1d72e99535a45c.mesh"
+
+[deps]
+
+files=[ "res://.import/tree_fat_fall.obj-0571c68a1ea707ed8b1d72e99535a45c.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Nature Kit/Models/OBJ format/tree_fat_fall.obj"
+dest_files=[ "res://.import/tree_fat_fall.obj-0571c68a1ea707ed8b1d72e99535a45c.mesh", "res://.import/tree_fat_fall.obj-0571c68a1ea707ed8b1d72e99535a45c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true

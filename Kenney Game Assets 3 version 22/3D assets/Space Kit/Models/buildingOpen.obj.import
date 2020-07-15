@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/buildingOpen.obj-2286cd036860b6131a7da2cb1bee1edb.mesh"
+
+[deps]
+
+files=[ "res://.import/buildingOpen.obj-2286cd036860b6131a7da2cb1bee1edb.mesh" ]
+
+source_file="res://Kenney Game Assets 3 version 22/3D assets/Space Kit/Models/buildingOpen.obj"
+dest_files=[ "res://.import/buildingOpen.obj-2286cd036860b6131a7da2cb1bee1edb.mesh", "res://.import/buildingOpen.obj-2286cd036860b6131a7da2cb1bee1edb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
